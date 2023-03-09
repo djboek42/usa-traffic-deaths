@@ -1,0 +1,268 @@
+"---"
+"Dataset: Underlying Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"Title: trafficdeaths"
+"ICD-10 Codes: V01-V99 (Transport accidents)"
+"Group By: Cause of death"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Mar 8, 2023 2:55:54 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Mar 8, 2023 2:55:54 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable."
+"3. The population figures for year 2021 are single-race estimates of the July 1 resident population, from the Vintage 2021"
+"postcensal series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2020 postcensal series released by the Census Bureau on July 27, 2021. The"
+"population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal"
+"series released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2018 postcensal series released by the Census Bureau on June 20, 2019."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
+"5. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"6. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#ICD-10 Changes."
+"Notes"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Pedestrian injured in collision with pedal cycle, traffic accident"	"V01.1"	15	1316784825	Unreliable
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, nontraffic accident"	"V02.0"	15	1316784825	Unreliable
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	149	1316784825	0.0
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	680	1316784825	0.1
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	9860	1316784825	0.7
+	"Unspecified whether traffic or nontraffic accident"	"V03.9"	40	1316784825	0.0
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	199	1316784825	0.0
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	845	1316784825	0.1
+	"Unspecified whether traffic or nontraffic accident"	"V04.9"	16	1316784825	Unreliable
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	96	1316784825	0.0
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	134	1316784825	0.0
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	1464	1316784825	0.1
+	"Pedestrian injured in collision with other nonmotor vehicle, nontraffic accident"	"V06.0"	17	1316784825	Unreliable
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	768	1316784825	0.1
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	122	1316784825	0.0
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	17460	1316784825	1.3
+	"Pedestrian injured in unspecified traffic accident"	"V09.3"	74	1316784825	0.0
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	265	1316784825	0.0
+	"Pedal cyclist injured in collision with other pedal cycle, unspecified pedal cyclist injured in traffic accident"	"V11.9"	14	1316784825	Unreliable
+	"Pedal cyclist injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V12.4"	28	1316784825	0.0
+	"Pedal cyclist injured in collision with two- or three-wheeled motor vehicle, unspecified pedal cyclist injured in traffic accident"	"V12.9"	19	1316784825	Unreliable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	619	1316784825	0.0
+	"Pedal cyclist injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V13.5"	11	1316784825	Unreliable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	632	1316784825	0.0
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V14.4"	69	1316784825	0.0
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"	"V14.9"	76	1316784825	0.0
+	"Pedal cyclist injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V15.4"	10	1316784825	Unreliable
+	"Pedal cyclist injured in collision with railway train or railway vehicle, unspecified pedal cyclist injured in traffic accident"	"V15.9"	26	1316784825	0.0
+	"Pedal cyclist injured in collision with fixed or stationary object, driver injured in traffic accident"	"V17.4"	56	1316784825	0.0
+	"Pedal cyclist injured in collision with fixed or stationary object, unspecified pedal cyclist injured in traffic accident"	"V17.9"	38	1316784825	0.0
+	"Pedal cyclist injured in noncollision transport accident, driver injured in nontraffic accident"	"V18.0"	40	1316784825	0.0
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in nontraffic accident"	"V18.2"	46	1316784825	0.0
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	189	1316784825	0.0
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	240	1316784825	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in nontraffic accident"	"V19.0"	11	1316784825	Unreliable
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in nontraffic accident"	"V19.2"	25	1316784825	0.0
+	"Pedal cyclist [any] injured in unspecified nontraffic accident"	"V19.3"	38	1316784825	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	1007	1316784825	0.1
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.5"	26	1316784825	0.0
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	562	1316784825	0.0
+	"Pedal cyclist [any] injured in other specified transport accidents"	"V19.8"	10	1316784825	Unreliable
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	732	1316784825	0.1
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	268	1316784825	0.0
+	"Motorcycle rider injured in collision with pedestrian or animal, passenger injured in traffic accident"	"V20.5"	27	1316784825	0.0
+	"Motorcycle rider injured in collision with pedestrian or animal, unspecified motorcycle rider injured in traffic accident"	"V20.9"	36	1316784825	0.0
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	148	1316784825	0.0
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, passenger injured in traffic accident"	"V22.5"	15	1316784825	Unreliable
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, unspecified motorcycle rider injured in traffic accident"	"V22.9"	20	1316784825	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	3672	1316784825	0.3
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	214	1316784825	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	163	1316784825	0.0
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	393	1316784825	0.0
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V24.5"	34	1316784825	0.0
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, unspecified motorcycle rider injured in traffic accident"	"V24.9"	15	1316784825	Unreliable
+	"Motorcycle rider injured in collision with other nonmotor vehicle, driver injured in traffic accident"	"V26.4"	20	1316784825	0.0
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in nontraffic accident"	"V27.0"	39	1316784825	0.0
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	2309	1316784825	0.2
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	101	1316784825	0.0
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	171	1316784825	0.0
+	"Motorcycle rider injured in noncollision transport accident, driver injured in nontraffic accident"	"V28.0"	54	1316784825	0.0
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in nontraffic accident"	"V28.2"	11	1316784825	Unreliable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	1789	1316784825	0.1
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	174	1316784825	0.0
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	162	1316784825	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in nontraffic accident"	"V29.0"	50	1316784825	0.0
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in nontraffic accident"	"V29.2"	10	1316784825	Unreliable
+	"Motorcycle rider [any] injured in unspecified nontraffic accident"	"V29.3"	52	1316784825	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	4779	1316784825	0.4
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	321	1316784825	0.0
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	175	1316784825	0.0
+	"Motorcycle rider [any] injured in other specified transport accidents"	"V29.8"	14	1316784825	Unreliable
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	5204	1316784825	0.4
+	"Car occupant injured in collision with pedestrian or animal, driver injured in traffic accident"	"V40.5"	24	1316784825	0.0
+	"Car occupant injured in collision with pedestrian or animal, passenger injured in traffic accident"	"V40.6"	11	1316784825	Unreliable
+	"Car occupant injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V42.5"	20	1316784825	0.0
+	"Car occupant injured in collision with two- or three-wheeled motor vehicle, passenger injured in traffic accident"	"V42.6"	10	1316784825	Unreliable
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"	"V43.0"	10	1316784825	Unreliable
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"	"V43.1"	11	1316784825	Unreliable
+	"Car occupant injured in collision with car, pick-up truck or van, person injured while boarding or alighting"	"V43.4"	24	1316784825	0.0
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	6890	1316784825	0.5
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	2652	1316784825	0.2
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	440	1316784825	0.0
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	1321	1316784825	0.1
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	412	1316784825	0.0
+	"Car occupant injured in collision with heavy transport vehicle or bus, unspecified car occupant injured in traffic accident"	"V44.9"	45	1316784825	0.0
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	81	1316784825	0.0
+	"Car occupant injured in collision with railway train or railway vehicle, passenger injured in traffic accident"	"V45.6"	33	1316784825	0.0
+	"Car occupant injured in collision with railway train or railway vehicle, unspecified car occupant injured in traffic accident"	"V45.9"	14	1316784825	Unreliable
+	"Car occupant injured in collision with other nonmotor vehicle, driver injured in traffic accident"	"V46.5"	12	1316784825	Unreliable
+	"Car occupant injured in collision with fixed or stationary object, driver injured in nontraffic accident"	"V47.0"	41	1316784825	0.0
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	4326	1316784825	0.3
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	1222	1316784825	0.1
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	309	1316784825	0.0
+	"Car occupant injured in noncollision transport accident, driver injured in nontraffic accident"	"V48.0"	44	1316784825	0.0
+	"Car occupant injured in noncollision transport accident, passenger injured in nontraffic accident"	"V48.1"	15	1316784825	Unreliable
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in nontraffic accident"	"V48.3"	34	1316784825	0.0
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	113	1316784825	0.0
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	2248	1316784825	0.2
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	732	1316784825	0.1
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	275	1316784825	0.0
+	"Car occupant [any] injured in unspecified nontraffic accident"	"V49.3"	25	1316784825	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	1397	1316784825	0.1
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	816	1316784825	0.1
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	169	1316784825	0.0
+	"Car occupant [any] injured in other specified transport accidents"	"V49.8"	21	1316784825	0.0
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	3922	1316784825	0.3
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	813	1316784825	0.1
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	226	1316784825	0.0
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, unspecified occupant of pick-up truck or van injured in traffic accident"	"V53.9"	31	1316784825	0.0
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	545	1316784825	0.0
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	159	1316784825	0.0
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, unspecified occupant of pick-up truck or van injured in traffic accident"	"V54.9"	24	1316784825	0.0
+	"Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V55.5"	40	1316784825	0.0
+	"Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, driver injured in traffic accident"	"V56.5"	15	1316784825	Unreliable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in nontraffic accident"	"V57.0"	11	1316784825	Unreliable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, person injured while boarding or alighting"	"V57.4"	10	1316784825	Unreliable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	970	1316784825	0.1
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	172	1316784825	0.0
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, unspecified occupant of pick-up truck or van injured in traffic accident"	"V57.9"	53	1316784825	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in nontraffic accident"	"V58.0"	24	1316784825	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in nontraffic accident"	"V58.1"	16	1316784825	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, person on outside of vehicle injured in nontraffic accident"	"V58.2"	16	1316784825	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in nontraffic accident"	"V58.3"	67	1316784825	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, person injured while boarding or alighting"	"V58.4"	35	1316784825	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	891	1316784825	0.1
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	340	1316784825	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	111	1316784825	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in nontraffic accident"	"V59.0"	14	1316784825	Unreliable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	421	1316784825	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	275	1316784825	0.0
+	"Unspecified occupant of pick-up truck or van injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.6"	44	1316784825	0.0
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	602	1316784825	0.0
+	"Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V63.5"	57	1316784825	0.0
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	187	1316784825	0.0
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V64.6"	22	1316784825	0.0
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, unspecified occupant of heavy transport vehicle injured in traffic accident"	"V64.9"	16	1316784825	Unreliable
+	"Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V65.5"	23	1316784825	0.0
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	187	1316784825	0.0
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V67.6"	18	1316784825	Unreliable
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, unspecified occupant of heavy transport vehicle injured in traffic accident"	"V67.9"	11	1316784825	Unreliable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in nontraffic accident"	"V68.0"	12	1316784825	Unreliable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, unspecified occupant of heavy transport vehicle injured in nontraffic accident"	"V68.3"	18	1316784825	Unreliable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, person injured while boarding or alighting"	"V68.4"	15	1316784825	Unreliable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	314	1316784825	0.0
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, passenger injured in traffic accident"	"V68.6"	50	1316784825	0.0
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, unspecified occupant of heavy transport vehicle injured in traffic accident"	"V68.9"	27	1316784825	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	109	1316784825	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.5"	57	1316784825	0.0
+	"Occupant [any] of heavy transport vehicle injured in other specified transport accidents"	"V69.8"	11	1316784825	Unreliable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	195	1316784825	0.0
+	"Bus occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V78.4"	12	1316784825	Unreliable
+	"Bus occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V78.6"	12	1316784825	Unreliable
+	"Bus occupant [any] injured in unspecified traffic accident"	"V79.9"	10	1316784825	Unreliable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	242	1316784825	0.0
+	"Rider or occupant injured in collision with car, pick-up truck, van, heavy transport vehicle or bus"	"V80.4"	29	1316784825	0.0
+	"Rider or occupant injured in other and unspecified transport accidents"	"V80.9"	47	1316784825	0.0
+	"Occupant of railway train or railway vehicle injured by fall from railway train or railway vehicle"	"V81.6"	12	1316784825	Unreliable
+	"Occupant of railway train or railway vehicle injured in other specified railway accidents"	"V81.8"	11	1316784825	Unreliable
+	"Occupant of railway train or railway vehicle injured in unspecified railway accident"	"V81.9"	11	1316784825	Unreliable
+	"Driver of special industrial vehicle injured in nontraffic accident"	"V83.5"	10	1316784825	Unreliable
+	"Unspecified occupant of special industrial vehicle injured in nontraffic accident"	"V83.9"	15	1316784825	Unreliable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	125	1316784825	0.0
+	"Unspecified occupant of special agricultural vehicle injured in traffic accident"	"V84.3"	14	1316784825	Unreliable
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	114	1316784825	0.0
+	"Person on outside of special agricultural vehicle injured in nontraffic accident"	"V84.7"	40	1316784825	0.0
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	162	1316784825	0.0
+	"Driver of special construction vehicle injured in traffic accident"	"V85.0"	30	1316784825	0.0
+	"Driver of special construction vehicle injured in nontraffic accident"	"V85.5"	33	1316784825	0.0
+	"Person on outside of special construction vehicle injured in nontraffic accident"	"V85.7"	32	1316784825	0.0
+	"Unspecified occupant of special construction vehicle injured in nontraffic accident"	"V85.9"	29	1316784825	0.0
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	1383	1316784825	0.1
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	241	1316784825	0.0
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	138	1316784825	0.0
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	1734	1316784825	0.1
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	322	1316784825	0.0
+	"Person on outside of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.7"	15	1316784825	Unreliable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	649	1316784825	0.0
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	480	1316784825	0.0
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	240	1316784825	0.0
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	255	1316784825	0.0
+	"Person injured in collision between car and bus (traffic)"	"V87.3"	18	1316784825	Unreliable
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	361	1316784825	0.0
+	"Person injured in collision between railway train or railway vehicle and car (traffic)"	"V87.6"	28	1316784825	0.0
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	20085	1316784825	1.5
+	"Person injured in other specified noncollision transport accidents involving motor vehicle (traffic)"	"V87.8"	22	1316784825	0.0
+	"Person injured in other specified (collision)(noncollision) transport accidents involving nonmotor vehicle (traffic)"	"V87.9"	10	1316784825	Unreliable
+	"Person injured in collision between other specified motor vehicles, nontraffic"	"V88.7"	44	1316784825	0.0
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	458	1316784825	0.0
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	51702	1316784825	3.9
+	"Person injured in unspecified vehicle accident"	"V89.9"	403	1316784825	0.0
+	"Accident to watercraft causing drowning and submersion, fishing boat"	"V90.2"	12	1316784825	Unreliable
+	"Accident to watercraft causing drowning and submersion, other powered watercraft, hovercraft (on open water), or jet skis"	"V90.3"	21	1316784825	0.0
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	181	1316784825	0.0
+	"Accident to watercraft causing drowning and submersion, inflatable craft (nonpowered)"	"V90.6"	22	1316784825	0.0
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	391	1316784825	0.0
+	"Accident to watercraft causing other injury, other powered watercraft, hovercraft (on open water), or jet skis"	"V91.3"	42	1316784825	0.0
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	196	1316784825	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, fishing boat"	"V92.2"	15	1316784825	Unreliable
+	"Water-transport-related drowning and submersion without accident to watercraft, other powered watercraft, hovercraft (on open water), or jet skis"	"V92.3"	42	1316784825	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, sailboat or yacht"	"V92.4"	10	1316784825	Unreliable
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	142	1316784825	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, inflatable craft (nonpowered)"	"V92.6"	66	1316784825	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, other unpowered watercraft, surf-board, or windsurfer"	"V92.8"	36	1316784825	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	501	1316784825	0.0
+	"Accident on board watercraft without accident to watercraft, not causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V93.9"	25	1316784825	0.0
+	"Other and unspecified water transport accidents, other powered watercraft, hovercraft (on open water), or jet skis"	"V94.3"	25	1316784825	0.0
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	151	1316784825	0.0
+	"Helicopter accident injuring occupant"	"V95.0"	163	1316784825	0.0
+	"Ultralight, microlight or powered-glider accident injuring occupant"	"V95.1"	51	1316784825	0.0
+	"Accident to other private fixed-wing aircraft, injuring occupant"	"V95.2"	31	1316784825	0.0
+	"Other aircraft accidents injuring occupant"	"V95.8"	30	1316784825	0.0
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	1160	1316784825	0.1
+	"Hang-glider accident injuring occupant"	"V96.1"	17	1316784825	Unreliable
+	"Glider (nonpowered) accident injuring occupant"	"V96.2"	28	1316784825	0.0
+	"Parachutist injured in air transport accident"	"V97.2"	49	1316784825	0.0
+"Total"			175820	1316784825	13.4

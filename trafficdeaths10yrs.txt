@@ -1,0 +1,807 @@
+"---"
+"Dataset: Underlying Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"Title: trafficdeaths10yrs"
+"ICD-10 Codes: V01-V99 (Transport accidents)"
+"Group By: Cause of death; Ten-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Mar 8, 2023 7:13:30 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Mar 8, 2023 7:13:30 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated."
+"4. The population figures for year 2021 are single-race estimates of the July 1 resident population, from the Vintage 2021"
+"postcensal series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2020 postcensal series released by the Census Bureau on July 27, 2021. The"
+"population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal"
+"series released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2018 postcensal series released by the Census Bureau on June 20, 2019."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#ICD-10 Changes."
+"Notes"	"Cause of death"	"Cause of death Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"25-34 years"	"25-34"	21	183202846	0.0
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"35-44 years"	"35-44"	27	168477078	0.0
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"45-54 years"	"45-54"	18	163561170	Unreliable
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"55-64 years"	"55-64"	30	169927914	0.0
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"65-74 years"	"65-74"	21	128191269	0.0
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"75-84 years"	"75-84"	15	64021868	Unreliable
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"1-4 years"	"1-4"	103	62584825	0.2
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"5-14 years"	"5-14"	23	164800798	0.0
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"15-24 years"	"15-24"	31	171302657	0.0
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"25-34 years"	"25-34"	47	183202846	0.0
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"35-44 years"	"35-44"	57	168477078	0.0
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"45-54 years"	"45-54"	59	163561170	0.0
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"55-64 years"	"55-64"	84	169927914	0.0
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"65-74 years"	"65-74"	119	128191269	0.1
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"75-84 years"	"75-84"	91	64021868	0.1
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"85+ years"	"85+"	61	25783637	0.2
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"1-4 years"	"1-4"	117	62584825	0.2
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"5-14 years"	"5-14"	207	164800798	0.1
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"15-24 years"	"15-24"	876	171302657	0.5
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"25-34 years"	"25-34"	1516	183202846	0.8
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"35-44 years"	"35-44"	1435	168477078	0.9
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"45-54 years"	"45-54"	1570	163561170	1.0
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"55-64 years"	"55-64"	1848	169927914	1.1
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"65-74 years"	"65-74"	1244	128191269	1.0
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"75-84 years"	"75-84"	716	64021868	1.1
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"85+ years"	"85+"	321	25783637	1.2
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"1-4 years"	"1-4"	10	62584825	Unreliable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"15-24 years"	"15-24"	13	171302657	Unreliable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"25-34 years"	"25-34"	20	183202846	0.0
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"35-44 years"	"35-44"	20	168477078	0.0
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"45-54 years"	"45-54"	35	163561170	0.0
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"55-64 years"	"55-64"	57	169927914	0.0
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"65-74 years"	"65-74"	26	128191269	0.0
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"75-84 years"	"75-84"	12	64021868	Unreliable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"5-14 years"	"5-14"	18	164800798	Unreliable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"15-24 years"	"15-24"	92	171302657	0.1
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"25-34 years"	"25-34"	161	183202846	0.1
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"35-44 years"	"35-44"	139	168477078	0.1
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"45-54 years"	"45-54"	130	163561170	0.1
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"55-64 years"	"55-64"	140	169927914	0.1
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"65-74 years"	"65-74"	82	128191269	0.1
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"75-84 years"	"75-84"	64	64021868	0.1
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"85+ years"	"85+"	17	25783637	Unreliable
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	"25-34 years"	"25-34"	23	183202846	0.0
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	"35-44 years"	"35-44"	21	168477078	0.0
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	"45-54 years"	"45-54"	17	163561170	Unreliable
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	"55-64 years"	"55-64"	20	169927914	0.0
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"15-24 years"	"15-24"	22	171302657	0.0
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"25-34 years"	"25-34"	21	183202846	0.0
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"35-44 years"	"35-44"	31	168477078	0.0
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"45-54 years"	"45-54"	22	163561170	0.0
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"55-64 years"	"55-64"	25	169927914	0.0
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"5-14 years"	"5-14"	19	164800798	Unreliable
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"15-24 years"	"15-24"	175	171302657	0.1
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"25-34 years"	"25-34"	360	183202846	0.2
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"35-44 years"	"35-44"	334	168477078	0.2
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"45-54 years"	"45-54"	241	163561170	0.1
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"55-64 years"	"55-64"	201	169927914	0.1
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"65-74 years"	"65-74"	88	128191269	0.1
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"75-84 years"	"75-84"	39	64021868	0.1
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"1-4 years"	"1-4"	115	62584825	0.2
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"5-14 years"	"5-14"	30	164800798	0.0
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"15-24 years"	"15-24"	38	171302657	0.0
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"25-34 years"	"25-34"	50	183202846	0.0
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"35-44 years"	"35-44"	46	168477078	0.0
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"45-54 years"	"45-54"	85	163561170	0.1
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"55-64 years"	"55-64"	120	169927914	0.1
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"65-74 years"	"65-74"	117	128191269	0.1
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"75-84 years"	"75-84"	104	64021868	0.2
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"85+ years"	"85+"	60	25783637	0.2
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"1-4 years"	"1-4"	14	62584825	Unreliable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"5-14 years"	"5-14"	10	164800798	Unreliable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"35-44 years"	"35-44"	11	168477078	Unreliable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"45-54 years"	"45-54"	18	163561170	Unreliable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"55-64 years"	"55-64"	21	169927914	0.0
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"65-74 years"	"65-74"	14	128191269	Unreliable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"75-84 years"	"75-84"	11	64021868	Unreliable
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"< 1 year"	"1"	11	14930763	Unreliable
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"1-4 years"	"1-4"	220	62584825	0.4
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"5-14 years"	"5-14"	337	164800798	0.2
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"15-24 years"	"15-24"	1575	171302657	0.9
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"25-34 years"	"25-34"	2889	183202846	1.6
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"35-44 years"	"35-44"	2828	168477078	1.7
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"45-54 years"	"45-54"	2717	163561170	1.7
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"55-64 years"	"55-64"	3386	169927914	2.0
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"65-74 years"	"65-74"	2048	128191269	1.6
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"75-84 years"	"75-84"	1036	64021868	1.6
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"85+ years"	"85+"	409	25783637	1.6
+	"Pedestrian injured in unspecified traffic accident"	"V09.3"	"25-34 years"	"25-34"	13	183202846	Unreliable
+	"Pedestrian injured in unspecified traffic accident"	"V09.3"	"55-64 years"	"55-64"	14	169927914	Unreliable
+	"Pedestrian injured in unspecified traffic accident"	"V09.3"	"65-74 years"	"65-74"	13	128191269	Unreliable
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"1-4 years"	"1-4"	12	62584825	Unreliable
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"5-14 years"	"5-14"	11	164800798	Unreliable
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"15-24 years"	"15-24"	23	171302657	0.0
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"25-34 years"	"25-34"	33	183202846	0.0
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"35-44 years"	"35-44"	37	168477078	0.0
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"45-54 years"	"45-54"	37	163561170	0.0
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"55-64 years"	"55-64"	38	169927914	0.0
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"65-74 years"	"65-74"	40	128191269	0.0
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"75-84 years"	"75-84"	28	64021868	0.0
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"5-14 years"	"5-14"	20	164800798	0.0
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"15-24 years"	"15-24"	55	171302657	0.0
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"25-34 years"	"25-34"	70	183202846	0.0
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"35-44 years"	"35-44"	72	168477078	0.0
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"45-54 years"	"45-54"	104	163561170	0.1
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"55-64 years"	"55-64"	159	169927914	0.1
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"65-74 years"	"65-74"	91	128191269	0.1
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"75-84 years"	"75-84"	37	64021868	0.1
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"5-14 years"	"5-14"	22	164800798	0.0
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"15-24 years"	"15-24"	57	171302657	0.0
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"25-34 years"	"25-34"	67	183202846	0.0
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"35-44 years"	"35-44"	90	168477078	0.1
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"45-54 years"	"45-54"	106	163561170	0.1
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"55-64 years"	"55-64"	146	169927914	0.1
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"65-74 years"	"65-74"	96	128191269	0.1
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"75-84 years"	"75-84"	37	64021868	0.1
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V14.4"	"35-44 years"	"35-44"	14	168477078	Unreliable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V14.4"	"45-54 years"	"45-54"	10	163561170	Unreliable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V14.4"	"55-64 years"	"55-64"	12	169927914	Unreliable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"	"V14.9"	"15-24 years"	"15-24"	13	171302657	Unreliable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"	"V14.9"	"35-44 years"	"35-44"	12	168477078	Unreliable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"	"V14.9"	"45-54 years"	"45-54"	13	163561170	Unreliable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"	"V14.9"	"65-74 years"	"65-74"	10	128191269	Unreliable
+	"Pedal cyclist injured in collision with fixed or stationary object, driver injured in traffic accident"	"V17.4"	"55-64 years"	"55-64"	16	169927914	Unreliable
+	"Pedal cyclist injured in collision with fixed or stationary object, driver injured in traffic accident"	"V17.4"	"65-74 years"	"65-74"	12	128191269	Unreliable
+	"Pedal cyclist injured in collision with fixed or stationary object, unspecified pedal cyclist injured in traffic accident"	"V17.9"	"55-64 years"	"55-64"	14	169927914	Unreliable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in nontraffic accident"	"V18.0"	"55-64 years"	"55-64"	11	169927914	Unreliable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in nontraffic accident"	"V18.0"	"65-74 years"	"65-74"	10	128191269	Unreliable
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in nontraffic accident"	"V18.2"	"55-64 years"	"55-64"	18	169927914	Unreliable
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in nontraffic accident"	"V18.2"	"65-74 years"	"65-74"	10	128191269	Unreliable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"35-44 years"	"35-44"	12	168477078	Unreliable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"45-54 years"	"45-54"	23	163561170	0.0
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"55-64 years"	"55-64"	63	169927914	0.0
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"65-74 years"	"65-74"	51	128191269	0.0
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"75-84 years"	"75-84"	25	64021868	0.0
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"45-54 years"	"45-54"	39	163561170	0.0
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"55-64 years"	"55-64"	63	169927914	0.0
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"65-74 years"	"65-74"	65	128191269	0.1
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"75-84 years"	"75-84"	41	64021868	0.1
+	"Pedal cyclist [any] injured in unspecified nontraffic accident"	"V19.3"	"65-74 years"	"65-74"	15	128191269	Unreliable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"5-14 years"	"5-14"	37	164800798	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"15-24 years"	"15-24"	86	171302657	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"25-34 years"	"25-34"	119	183202846	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"35-44 years"	"35-44"	122	168477078	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"45-54 years"	"45-54"	173	163561170	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"55-64 years"	"55-64"	263	169927914	0.2
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"65-74 years"	"65-74"	135	128191269	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"75-84 years"	"75-84"	56	64021868	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"85+ years"	"85+"	13	25783637	Unreliable
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"5-14 years"	"5-14"	22	164800798	0.0
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"15-24 years"	"15-24"	61	171302657	0.0
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"25-34 years"	"25-34"	61	183202846	0.0
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"35-44 years"	"35-44"	90	168477078	0.1
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"45-54 years"	"45-54"	90	163561170	0.1
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"55-64 years"	"55-64"	142	169927914	0.1
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"65-74 years"	"65-74"	63	128191269	0.0
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"75-84 years"	"75-84"	25	64021868	0.0
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"5-14 years"	"5-14"	24	164800798	0.0
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"15-24 years"	"15-24"	55	171302657	0.0
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"25-34 years"	"25-34"	67	183202846	0.0
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"35-44 years"	"35-44"	93	168477078	0.1
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"45-54 years"	"45-54"	128	163561170	0.1
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"55-64 years"	"55-64"	189	169927914	0.1
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"65-74 years"	"65-74"	117	128191269	0.1
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"75-84 years"	"75-84"	48	64021868	0.1
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"85+ years"	"85+"	11	25783637	Unreliable
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"15-24 years"	"15-24"	11	171302657	Unreliable
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"25-34 years"	"25-34"	33	183202846	0.0
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"35-44 years"	"35-44"	37	168477078	0.0
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"45-54 years"	"45-54"	59	163561170	0.0
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"55-64 years"	"55-64"	87	169927914	0.1
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"65-74 years"	"65-74"	36	128191269	0.0
+	"Motorcycle rider injured in collision with pedestrian or animal, passenger injured in traffic accident"	"V20.5"	"55-64 years"	"55-64"	10	169927914	Unreliable
+	"Motorcycle rider injured in collision with pedestrian or animal, unspecified motorcycle rider injured in traffic accident"	"V20.9"	"65-74 years"	"65-74"	11	128191269	Unreliable
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"15-24 years"	"15-24"	24	171302657	0.0
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"25-34 years"	"25-34"	26	183202846	0.0
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"35-44 years"	"35-44"	19	168477078	Unreliable
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"45-54 years"	"45-54"	20	163561170	0.0
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"55-64 years"	"55-64"	32	169927914	0.0
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"65-74 years"	"65-74"	21	128191269	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"15-24 years"	"15-24"	618	171302657	0.4
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"25-34 years"	"25-34"	926	183202846	0.5
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"35-44 years"	"35-44"	615	168477078	0.4
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"45-54 years"	"45-54"	599	163561170	0.4
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"55-64 years"	"55-64"	592	169927914	0.3
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"65-74 years"	"65-74"	254	128191269	0.2
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"75-84 years"	"75-84"	53	64021868	0.1
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"15-24 years"	"15-24"	34	171302657	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"25-34 years"	"25-34"	40	183202846	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"35-44 years"	"35-44"	35	168477078	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"45-54 years"	"45-54"	53	163561170	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"55-64 years"	"55-64"	26	169927914	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"65-74 years"	"65-74"	15	128191269	Unreliable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"15-24 years"	"15-24"	23	171302657	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"25-34 years"	"25-34"	39	183202846	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"35-44 years"	"35-44"	26	168477078	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"45-54 years"	"45-54"	27	163561170	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"55-64 years"	"55-64"	25	169927914	0.0
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"65-74 years"	"65-74"	19	128191269	Unreliable
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"15-24 years"	"15-24"	65	171302657	0.0
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"25-34 years"	"25-34"	96	183202846	0.1
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"35-44 years"	"35-44"	64	168477078	0.0
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"45-54 years"	"45-54"	62	163561170	0.0
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"55-64 years"	"55-64"	61	169927914	0.0
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"65-74 years"	"65-74"	36	128191269	0.0
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in nontraffic accident"	"V27.0"	"25-34 years"	"25-34"	10	183202846	Unreliable
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"15-24 years"	"15-24"	309	171302657	0.2
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"25-34 years"	"25-34"	572	183202846	0.3
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"35-44 years"	"35-44"	444	168477078	0.3
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"45-54 years"	"45-54"	414	163561170	0.3
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"55-64 years"	"55-64"	377	169927914	0.2
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"65-74 years"	"65-74"	142	128191269	0.1
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"75-84 years"	"75-84"	41	64021868	0.1
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	"15-24 years"	"15-24"	15	171302657	Unreliable
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	"25-34 years"	"25-34"	18	183202846	Unreliable
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	"35-44 years"	"35-44"	17	168477078	Unreliable
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	"45-54 years"	"45-54"	20	163561170	0.0
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	"55-64 years"	"55-64"	19	169927914	Unreliable
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"15-24 years"	"15-24"	19	171302657	Unreliable
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"25-34 years"	"25-34"	42	183202846	0.0
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"35-44 years"	"35-44"	34	168477078	0.0
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"45-54 years"	"45-54"	35	163561170	0.0
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"55-64 years"	"55-64"	20	169927914	0.0
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"65-74 years"	"65-74"	19	128191269	Unreliable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in nontraffic accident"	"V28.0"	"55-64 years"	"55-64"	13	169927914	Unreliable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"15-24 years"	"15-24"	131	171302657	0.1
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"25-34 years"	"25-34"	351	183202846	0.2
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"35-44 years"	"35-44"	283	168477078	0.2
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"45-54 years"	"45-54"	367	163561170	0.2
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"55-64 years"	"55-64"	407	169927914	0.2
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"65-74 years"	"65-74"	197	128191269	0.2
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"75-84 years"	"75-84"	45	64021868	0.1
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"15-24 years"	"15-24"	11	171302657	Unreliable
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"25-34 years"	"25-34"	36	183202846	0.0
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"35-44 years"	"35-44"	23	168477078	0.0
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"45-54 years"	"45-54"	59	163561170	0.0
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"55-64 years"	"55-64"	32	169927914	0.0
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"15-24 years"	"15-24"	13	171302657	Unreliable
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"25-34 years"	"25-34"	32	183202846	0.0
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"35-44 years"	"35-44"	26	168477078	0.0
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"45-54 years"	"45-54"	21	163561170	0.0
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"55-64 years"	"55-64"	30	169927914	0.0
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"65-74 years"	"65-74"	20	128191269	0.0
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"75-84 years"	"75-84"	16	64021868	Unreliable
+	"Driver injured in collision with other and unspecified motor vehicles in nontraffic accident"	"V29.0"	"25-34 years"	"25-34"	13	183202846	Unreliable
+	"Driver injured in collision with other and unspecified motor vehicles in nontraffic accident"	"V29.0"	"55-64 years"	"55-64"	11	169927914	Unreliable
+	"Motorcycle rider [any] injured in unspecified nontraffic accident"	"V29.3"	"15-24 years"	"15-24"	12	171302657	Unreliable
+	"Motorcycle rider [any] injured in unspecified nontraffic accident"	"V29.3"	"35-44 years"	"35-44"	15	168477078	Unreliable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"5-14 years"	"5-14"	14	164800798	Unreliable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"15-24 years"	"15-24"	698	171302657	0.4
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"25-34 years"	"25-34"	1208	183202846	0.7
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"35-44 years"	"35-44"	829	168477078	0.5
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"45-54 years"	"45-54"	778	163561170	0.5
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"55-64 years"	"55-64"	778	169927914	0.5
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"65-74 years"	"65-74"	370	128191269	0.3
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"75-84 years"	"75-84"	91	64021868	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"85+ years"	"85+"	13	25783637	Unreliable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"5-14 years"	"5-14"	11	164800798	Unreliable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"15-24 years"	"15-24"	54	171302657	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"25-34 years"	"25-34"	56	183202846	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"35-44 years"	"35-44"	57	168477078	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"45-54 years"	"45-54"	60	163561170	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"55-64 years"	"55-64"	51	169927914	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"65-74 years"	"65-74"	30	128191269	0.0
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"15-24 years"	"15-24"	21	171302657	0.0
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"25-34 years"	"25-34"	38	183202846	0.0
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"35-44 years"	"35-44"	23	168477078	0.0
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"45-54 years"	"45-54"	33	163561170	0.0
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"55-64 years"	"55-64"	41	169927914	0.0
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"65-74 years"	"65-74"	10	128191269	Unreliable
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"5-14 years"	"5-14"	11	164800798	Unreliable
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"15-24 years"	"15-24"	635	171302657	0.4
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"25-34 years"	"25-34"	1129	183202846	0.6
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"35-44 years"	"35-44"	861	168477078	0.5
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"45-54 years"	"45-54"	1032	163561170	0.6
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"55-64 years"	"55-64"	935	169927914	0.6
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"65-74 years"	"65-74"	476	128191269	0.4
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"75-84 years"	"75-84"	112	64021868	0.2
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"85+ years"	"85+"	13	25783637	Unreliable
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"15-24 years"	"15-24"	1095	171302657	0.6
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"25-34 years"	"25-34"	1253	183202846	0.7
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"35-44 years"	"35-44"	868	168477078	0.5
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"45-54 years"	"45-54"	873	163561170	0.5
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"55-64 years"	"55-64"	982	169927914	0.6
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"65-74 years"	"65-74"	756	128191269	0.6
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"75-84 years"	"75-84"	678	64021868	1.1
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"85+ years"	"85+"	383	25783637	1.5
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"< 1 year"	"1"	38	14930763	0.3
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"1-4 years"	"1-4"	94	62584825	0.2
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"5-14 years"	"5-14"	228	164800798	0.1
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"15-24 years"	"15-24"	620	171302657	0.4
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"25-34 years"	"25-34"	350	183202846	0.2
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"35-44 years"	"35-44"	222	168477078	0.1
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"45-54 years"	"45-54"	180	163561170	0.1
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"55-64 years"	"55-64"	229	169927914	0.1
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"65-74 years"	"65-74"	234	128191269	0.2
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"75-84 years"	"75-84"	266	64021868	0.4
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"85+ years"	"85+"	191	25783637	0.7
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"5-14 years"	"5-14"	14	164800798	Unreliable
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"15-24 years"	"15-24"	76	171302657	0.0
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"25-34 years"	"25-34"	88	183202846	0.0
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"35-44 years"	"35-44"	50	168477078	0.0
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"45-54 years"	"45-54"	60	163561170	0.0
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"55-64 years"	"55-64"	58	169927914	0.0
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"65-74 years"	"65-74"	33	128191269	0.0
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"75-84 years"	"75-84"	33	64021868	0.1
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"85+ years"	"85+"	23	25783637	0.1
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"15-24 years"	"15-24"	240	171302657	0.1
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"25-34 years"	"25-34"	275	183202846	0.2
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"35-44 years"	"35-44"	214	168477078	0.1
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"45-54 years"	"45-54"	163	163561170	0.1
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"55-64 years"	"55-64"	162	169927914	0.1
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"65-74 years"	"65-74"	121	128191269	0.1
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"75-84 years"	"75-84"	105	64021868	0.2
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"85+ years"	"85+"	41	25783637	0.2
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"1-4 years"	"1-4"	26	62584825	0.0
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"5-14 years"	"5-14"	43	164800798	0.0
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"15-24 years"	"15-24"	95	171302657	0.1
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"25-34 years"	"25-34"	62	183202846	0.0
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"35-44 years"	"35-44"	43	168477078	0.0
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"45-54 years"	"45-54"	30	163561170	0.0
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"55-64 years"	"55-64"	42	169927914	0.0
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"65-74 years"	"65-74"	19	128191269	Unreliable
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"75-84 years"	"75-84"	29	64021868	0.0
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"85+ years"	"85+"	14	25783637	Unreliable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"15-24 years"	"15-24"	10	171302657	Unreliable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"25-34 years"	"25-34"	16	183202846	Unreliable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"35-44 years"	"35-44"	13	168477078	Unreliable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"45-54 years"	"45-54"	10	163561170	Unreliable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"55-64 years"	"55-64"	12	169927914	Unreliable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"65-74 years"	"65-74"	12	128191269	Unreliable
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"15-24 years"	"15-24"	977	171302657	0.6
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"25-34 years"	"25-34"	1062	183202846	0.6
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"35-44 years"	"35-44"	643	168477078	0.4
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"45-54 years"	"45-54"	504	163561170	0.3
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"55-64 years"	"55-64"	439	169927914	0.3
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"65-74 years"	"65-74"	333	128191269	0.3
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"75-84 years"	"75-84"	247	64021868	0.4
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"85+ years"	"85+"	116	25783637	0.4
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"1-4 years"	"1-4"	28	62584825	0.0
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"5-14 years"	"5-14"	75	164800798	0.0
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"15-24 years"	"15-24"	485	171302657	0.3
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"25-34 years"	"25-34"	239	183202846	0.1
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"35-44 years"	"35-44"	118	168477078	0.1
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"45-54 years"	"45-54"	79	163561170	0.0
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"55-64 years"	"55-64"	76	169927914	0.0
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"65-74 years"	"65-74"	42	128191269	0.0
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"75-84 years"	"75-84"	43	64021868	0.1
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"85+ years"	"85+"	31	25783637	0.1
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"15-24 years"	"15-24"	79	171302657	0.0
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"25-34 years"	"25-34"	71	183202846	0.0
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"35-44 years"	"35-44"	45	168477078	0.0
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"45-54 years"	"45-54"	34	163561170	0.0
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"55-64 years"	"55-64"	28	169927914	0.0
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"65-74 years"	"65-74"	26	128191269	0.0
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"75-84 years"	"75-84"	13	64021868	Unreliable
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	"65-74 years"	"65-74"	19	128191269	Unreliable
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	"75-84 years"	"75-84"	41	64021868	0.1
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	"85+ years"	"85+"	33	25783637	0.1
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"15-24 years"	"15-24"	473	171302657	0.3
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"25-34 years"	"25-34"	554	183202846	0.3
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"35-44 years"	"35-44"	324	168477078	0.2
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"45-54 years"	"45-54"	259	163561170	0.2
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"55-64 years"	"55-64"	291	169927914	0.2
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"65-74 years"	"65-74"	179	128191269	0.1
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"75-84 years"	"75-84"	120	64021868	0.2
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"85+ years"	"85+"	46	25783637	0.2
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"< 1 year"	"1"	11	14930763	Unreliable
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"1-4 years"	"1-4"	30	62584825	0.0
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"5-14 years"	"5-14"	67	164800798	0.0
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"15-24 years"	"15-24"	222	171302657	0.1
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"25-34 years"	"25-34"	146	183202846	0.1
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"35-44 years"	"35-44"	76	168477078	0.0
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"45-54 years"	"45-54"	54	163561170	0.0
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"55-64 years"	"55-64"	46	169927914	0.0
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"65-74 years"	"65-74"	35	128191269	0.0
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"75-84 years"	"75-84"	34	64021868	0.1
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"85+ years"	"85+"	11	25783637	Unreliable
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"15-24 years"	"15-24"	65	171302657	0.0
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"25-34 years"	"25-34"	64	183202846	0.0
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"35-44 years"	"35-44"	42	168477078	0.0
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"45-54 years"	"45-54"	31	163561170	0.0
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"55-64 years"	"55-64"	26	169927914	0.0
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"65-74 years"	"65-74"	19	128191269	Unreliable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"15-24 years"	"15-24"	201	171302657	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"25-34 years"	"25-34"	249	183202846	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"35-44 years"	"35-44"	206	168477078	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"45-54 years"	"45-54"	182	163561170	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"55-64 years"	"55-64"	176	169927914	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"65-74 years"	"65-74"	163	128191269	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"75-84 years"	"75-84"	146	64021868	0.2
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"85+ years"	"85+"	74	25783637	0.3
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"1-4 years"	"1-4"	10	62584825	Unreliable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"5-14 years"	"5-14"	44	164800798	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"15-24 years"	"15-24"	162	171302657	0.1
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"25-34 years"	"25-34"	119	183202846	0.1
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"35-44 years"	"35-44"	99	168477078	0.1
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"45-54 years"	"45-54"	67	163561170	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"55-64 years"	"55-64"	89	169927914	0.1
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"65-74 years"	"65-74"	79	128191269	0.1
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"75-84 years"	"75-84"	89	64021868	0.1
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"85+ years"	"85+"	53	25783637	0.2
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"15-24 years"	"15-24"	31	171302657	0.0
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"25-34 years"	"25-34"	19	183202846	Unreliable
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"35-44 years"	"35-44"	21	168477078	0.0
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"45-54 years"	"45-54"	18	163561170	Unreliable
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"55-64 years"	"55-64"	21	169927914	0.0
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"65-74 years"	"65-74"	17	128191269	Unreliable
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"75-84 years"	"75-84"	15	64021868	Unreliable
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"< 1 year"	"1"	11	14930763	Unreliable
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"1-4 years"	"1-4"	38	62584825	0.1
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"5-14 years"	"5-14"	101	164800798	0.1
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"15-24 years"	"15-24"	806	171302657	0.5
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"25-34 years"	"25-34"	716	183202846	0.4
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"35-44 years"	"35-44"	533	168477078	0.3
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"45-54 years"	"45-54"	472	163561170	0.3
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"55-64 years"	"55-64"	469	169927914	0.3
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"65-74 years"	"65-74"	357	128191269	0.3
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"75-84 years"	"75-84"	280	64021868	0.4
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"85+ years"	"85+"	138	25783637	0.5
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"15-24 years"	"15-24"	77	171302657	0.0
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"25-34 years"	"25-34"	121	183202846	0.1
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"35-44 years"	"35-44"	117	168477078	0.1
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"45-54 years"	"45-54"	112	163561170	0.1
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"55-64 years"	"55-64"	150	169927914	0.1
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"65-74 years"	"65-74"	114	128191269	0.1
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"75-84 years"	"75-84"	97	64021868	0.2
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"85+ years"	"85+"	25	25783637	0.1
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"5-14 years"	"5-14"	13	164800798	Unreliable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"15-24 years"	"15-24"	33	171302657	0.0
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"25-34 years"	"25-34"	26	183202846	0.0
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"35-44 years"	"35-44"	24	168477078	0.0
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"45-54 years"	"45-54"	27	163561170	0.0
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"55-64 years"	"55-64"	39	169927914	0.0
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"65-74 years"	"65-74"	31	128191269	0.0
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"75-84 years"	"75-84"	20	64021868	0.0
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"15-24 years"	"15-24"	58	171302657	0.0
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"25-34 years"	"25-34"	107	183202846	0.1
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"35-44 years"	"35-44"	75	168477078	0.0
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"45-54 years"	"45-54"	88	163561170	0.1
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"55-64 years"	"55-64"	100	169927914	0.1
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"65-74 years"	"65-74"	68	128191269	0.1
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"75-84 years"	"75-84"	37	64021868	0.1
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"85+ years"	"85+"	12	25783637	Unreliable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"5-14 years"	"5-14"	25	164800798	0.0
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"15-24 years"	"15-24"	32	171302657	0.0
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"25-34 years"	"25-34"	32	183202846	0.0
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"35-44 years"	"35-44"	23	168477078	0.0
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"45-54 years"	"45-54"	14	163561170	Unreliable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"55-64 years"	"55-64"	16	169927914	Unreliable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"15-24 years"	"15-24"	144	171302657	0.1
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"25-34 years"	"25-34"	189	183202846	0.1
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"35-44 years"	"35-44"	149	168477078	0.1
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"45-54 years"	"45-54"	162	163561170	0.1
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"55-64 years"	"55-64"	161	169927914	0.1
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"65-74 years"	"65-74"	99	128191269	0.1
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"75-84 years"	"75-84"	54	64021868	0.1
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"85+ years"	"85+"	12	25783637	Unreliable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"15-24 years"	"15-24"	48	171302657	0.0
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"25-34 years"	"25-34"	37	183202846	0.0
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"35-44 years"	"35-44"	27	168477078	0.0
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"45-54 years"	"45-54"	13	163561170	Unreliable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"55-64 years"	"55-64"	17	169927914	Unreliable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"65-74 years"	"65-74"	10	128191269	Unreliable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, unspecified occupant of pick-up truck or van injured in traffic accident"	"V57.9"	"15-24 years"	"15-24"	12	171302657	Unreliable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, unspecified occupant of pick-up truck or van injured in traffic accident"	"V57.9"	"55-64 years"	"55-64"	11	169927914	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in nontraffic accident"	"V58.3"	"55-64 years"	"55-64"	13	169927914	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in nontraffic accident"	"V58.3"	"65-74 years"	"65-74"	17	128191269	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in nontraffic accident"	"V58.3"	"75-84 years"	"75-84"	10	64021868	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, person injured while boarding or alighting"	"V58.4"	"55-64 years"	"55-64"	10	169927914	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"15-24 years"	"15-24"	151	171302657	0.1
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"25-34 years"	"25-34"	177	183202846	0.1
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"35-44 years"	"35-44"	148	168477078	0.1
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"45-54 years"	"45-54"	130	163561170	0.1
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"55-64 years"	"55-64"	145	169927914	0.1
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"65-74 years"	"65-74"	92	128191269	0.1
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"75-84 years"	"75-84"	38	64021868	0.1
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"5-14 years"	"5-14"	19	164800798	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"15-24 years"	"15-24"	86	171302657	0.1
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"25-34 years"	"25-34"	62	183202846	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"35-44 years"	"35-44"	54	168477078	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"45-54 years"	"45-54"	40	163561170	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"55-64 years"	"55-64"	32	169927914	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"65-74 years"	"65-74"	20	128191269	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"75-84 years"	"75-84"	19	64021868	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"15-24 years"	"15-24"	23	171302657	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"35-44 years"	"35-44"	16	168477078	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"45-54 years"	"45-54"	17	163561170	Unreliable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"55-64 years"	"55-64"	21	169927914	0.0
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"65-74 years"	"65-74"	17	128191269	Unreliable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"15-24 years"	"15-24"	40	171302657	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"25-34 years"	"25-34"	58	183202846	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"35-44 years"	"35-44"	53	168477078	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"45-54 years"	"45-54"	78	163561170	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"55-64 years"	"55-64"	83	169927914	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"65-74 years"	"65-74"	65	128191269	0.1
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"75-84 years"	"75-84"	30	64021868	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"85+ years"	"85+"	14	25783637	Unreliable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"15-24 years"	"15-24"	54	171302657	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"25-34 years"	"25-34"	34	183202846	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"35-44 years"	"35-44"	35	168477078	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"45-54 years"	"45-54"	35	163561170	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"55-64 years"	"55-64"	42	169927914	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"65-74 years"	"65-74"	36	128191269	0.0
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"75-84 years"	"75-84"	13	64021868	Unreliable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"85+ years"	"85+"	13	25783637	Unreliable
+	"Unspecified occupant of pick-up truck or van injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.6"	"15-24 years"	"15-24"	11	171302657	Unreliable
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"15-24 years"	"15-24"	87	171302657	0.1
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"25-34 years"	"25-34"	98	183202846	0.1
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"35-44 years"	"35-44"	84	168477078	0.0
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"45-54 years"	"45-54"	103	163561170	0.1
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"55-64 years"	"55-64"	100	169927914	0.1
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"65-74 years"	"65-74"	60	128191269	0.0
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"75-84 years"	"75-84"	45	64021868	0.1
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"85+ years"	"85+"	15	25783637	Unreliable
+	"Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V63.5"	"35-44 years"	"35-44"	12	168477078	Unreliable
+	"Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V63.5"	"45-54 years"	"45-54"	15	163561170	Unreliable
+	"Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V63.5"	"65-74 years"	"65-74"	10	128191269	Unreliable
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"25-34 years"	"25-34"	33	183202846	0.0
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"35-44 years"	"35-44"	31	168477078	0.0
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"45-54 years"	"45-54"	44	163561170	0.0
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"55-64 years"	"55-64"	54	169927914	0.0
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"65-74 years"	"65-74"	15	128191269	Unreliable
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"25-34 years"	"25-34"	22	183202846	0.0
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"35-44 years"	"35-44"	33	168477078	0.0
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"45-54 years"	"45-54"	51	163561170	0.0
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"55-64 years"	"55-64"	51	169927914	0.0
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"65-74 years"	"65-74"	17	128191269	Unreliable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"25-34 years"	"25-34"	43	183202846	0.0
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"35-44 years"	"35-44"	57	168477078	0.0
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"45-54 years"	"45-54"	69	163561170	0.0
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"55-64 years"	"55-64"	78	169927914	0.0
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"65-74 years"	"65-74"	44	128191269	0.0
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"75-84 years"	"75-84"	13	64021868	Unreliable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, passenger injured in traffic accident"	"V68.6"	"35-44 years"	"35-44"	10	168477078	Unreliable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, unspecified occupant of heavy transport vehicle injured in traffic accident"	"V68.9"	"55-64 years"	"55-64"	10	169927914	Unreliable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"25-34 years"	"25-34"	17	183202846	Unreliable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"35-44 years"	"35-44"	20	168477078	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"45-54 years"	"45-54"	30	163561170	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"55-64 years"	"55-64"	25	169927914	0.0
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"65-74 years"	"65-74"	12	128191269	Unreliable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.5"	"35-44 years"	"35-44"	11	168477078	Unreliable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.5"	"45-54 years"	"45-54"	15	163561170	Unreliable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.5"	"55-64 years"	"55-64"	11	169927914	Unreliable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"15-24 years"	"15-24"	10	171302657	Unreliable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"25-34 years"	"25-34"	25	183202846	0.0
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"35-44 years"	"35-44"	35	168477078	0.0
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"45-54 years"	"45-54"	46	163561170	0.0
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"55-64 years"	"55-64"	45	169927914	0.0
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"65-74 years"	"65-74"	17	128191269	Unreliable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"75-84 years"	"75-84"	12	64021868	Unreliable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"5-14 years"	"5-14"	10	164800798	Unreliable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"25-34 years"	"25-34"	14	183202846	Unreliable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"35-44 years"	"35-44"	21	168477078	0.0
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"45-54 years"	"45-54"	33	163561170	0.0
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"55-64 years"	"55-64"	52	169927914	0.0
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"65-74 years"	"65-74"	65	128191269	0.1
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"75-84 years"	"75-84"	25	64021868	0.0
+	"Rider or occupant injured in other and unspecified transport accidents"	"V80.9"	"65-74 years"	"65-74"	12	128191269	Unreliable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"15-24 years"	"15-24"	10	171302657	Unreliable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"25-34 years"	"25-34"	10	183202846	Unreliable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"45-54 years"	"45-54"	11	163561170	Unreliable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"55-64 years"	"55-64"	37	169927914	0.0
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"65-74 years"	"65-74"	29	128191269	0.0
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"75-84 years"	"75-84"	15	64021868	Unreliable
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	"55-64 years"	"55-64"	24	169927914	0.0
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	"65-74 years"	"65-74"	34	128191269	0.0
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	"75-84 years"	"75-84"	31	64021868	0.0
+	"Person on outside of special agricultural vehicle injured in nontraffic accident"	"V84.7"	"75-84 years"	"75-84"	15	64021868	Unreliable
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"45-54 years"	"45-54"	15	163561170	Unreliable
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"55-64 years"	"55-64"	24	169927914	0.0
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"65-74 years"	"65-74"	46	128191269	0.0
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"75-84 years"	"75-84"	45	64021868	0.1
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"85+ years"	"85+"	14	25783637	Unreliable
+	"Driver of special construction vehicle injured in nontraffic accident"	"V85.5"	"65-74 years"	"65-74"	10	128191269	Unreliable
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"5-14 years"	"5-14"	81	164800798	0.0
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"15-24 years"	"15-24"	246	171302657	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"25-34 years"	"25-34"	240	183202846	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"35-44 years"	"35-44"	226	168477078	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"45-54 years"	"45-54"	196	163561170	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"55-64 years"	"55-64"	177	169927914	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"65-74 years"	"65-74"	109	128191269	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"75-84 years"	"75-84"	65	64021868	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"85+ years"	"85+"	43	25783637	0.2
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"5-14 years"	"5-14"	45	164800798	0.0
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"15-24 years"	"15-24"	72	171302657	0.0
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"25-34 years"	"25-34"	41	183202846	0.0
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"35-44 years"	"35-44"	29	168477078	0.0
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"45-54 years"	"45-54"	15	163561170	Unreliable
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"55-64 years"	"55-64"	19	169927914	Unreliable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"15-24 years"	"15-24"	19	171302657	Unreliable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"25-34 years"	"25-34"	22	183202846	0.0
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"35-44 years"	"35-44"	27	168477078	0.0
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"45-54 years"	"45-54"	25	163561170	0.0
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"55-64 years"	"55-64"	17	169927914	Unreliable
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"5-14 years"	"5-14"	132	164800798	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"15-24 years"	"15-24"	206	171302657	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"25-34 years"	"25-34"	232	183202846	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"35-44 years"	"35-44"	236	168477078	0.1
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"45-54 years"	"45-54"	255	163561170	0.2
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"55-64 years"	"55-64"	285	169927914	0.2
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"65-74 years"	"65-74"	202	128191269	0.2
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"75-84 years"	"75-84"	133	64021868	0.2
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"85+ years"	"85+"	51	25783637	0.2
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"1-4 years"	"1-4"	16	62584825	Unreliable
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"5-14 years"	"5-14"	68	164800798	0.0
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"15-24 years"	"15-24"	73	171302657	0.0
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"25-34 years"	"25-34"	41	183202846	0.0
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"35-44 years"	"35-44"	25	168477078	0.0
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"45-54 years"	"45-54"	36	163561170	0.0
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"55-64 years"	"55-64"	34	169927914	0.0
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"65-74 years"	"65-74"	17	128191269	Unreliable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"5-14 years"	"5-14"	58	164800798	0.0
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"15-24 years"	"15-24"	72	171302657	0.0
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"25-34 years"	"25-34"	100	183202846	0.1
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"35-44 years"	"35-44"	88	168477078	0.1
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"45-54 years"	"45-54"	87	163561170	0.1
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"55-64 years"	"55-64"	96	169927914	0.1
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"65-74 years"	"65-74"	70	128191269	0.1
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"75-84 years"	"75-84"	52	64021868	0.1
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"85+ years"	"85+"	21	25783637	0.1
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"15-24 years"	"15-24"	77	171302657	0.0
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"25-34 years"	"25-34"	122	183202846	0.1
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"35-44 years"	"35-44"	82	168477078	0.0
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"45-54 years"	"45-54"	81	163561170	0.0
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"55-64 years"	"55-64"	73	169927914	0.0
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"65-74 years"	"65-74"	35	128191269	0.0
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"15-24 years"	"15-24"	31	171302657	0.0
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"25-34 years"	"25-34"	62	183202846	0.0
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"35-44 years"	"35-44"	43	168477078	0.0
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"45-54 years"	"45-54"	44	163561170	0.0
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"55-64 years"	"55-64"	34	169927914	0.0
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"65-74 years"	"65-74"	18	128191269	Unreliable
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"15-24 years"	"15-24"	46	171302657	0.0
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"25-34 years"	"25-34"	49	183202846	0.0
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"35-44 years"	"35-44"	40	168477078	0.0
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"45-54 years"	"45-54"	33	163561170	0.0
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"55-64 years"	"55-64"	30	169927914	0.0
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"65-74 years"	"65-74"	26	128191269	0.0
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"75-84 years"	"75-84"	19	64021868	Unreliable
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"15-24 years"	"15-24"	70	171302657	0.0
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"25-34 years"	"25-34"	84	183202846	0.0
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"35-44 years"	"35-44"	61	168477078	0.0
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"45-54 years"	"45-54"	36	163561170	0.0
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"55-64 years"	"55-64"	40	169927914	0.0
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"65-74 years"	"65-74"	30	128191269	0.0
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"75-84 years"	"75-84"	17	64021868	Unreliable
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"85+ years"	"85+"	10	25783637	Unreliable
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"< 1 year"	"1"	61	14930763	0.4
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"1-4 years"	"1-4"	169	62584825	0.3
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"5-14 years"	"5-14"	466	164800798	0.3
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"15-24 years"	"15-24"	3142	171302657	1.8
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"25-34 years"	"25-34"	3388	183202846	1.8
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"35-44 years"	"35-44"	2646	168477078	1.6
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"45-54 years"	"45-54"	2449	163561170	1.5
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"55-64 years"	"55-64"	2621	169927914	1.5
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"65-74 years"	"65-74"	2283	128191269	1.8
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"75-84 years"	"75-84"	1898	64021868	3.0
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"85+ years"	"85+"	961	25783637	3.7
+	"Person injured in collision between other specified motor vehicles, nontraffic"	"V88.7"	"55-64 years"	"55-64"	10	169927914	Unreliable
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"15-24 years"	"15-24"	71	171302657	0.0
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"25-34 years"	"25-34"	55	183202846	0.0
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"35-44 years"	"35-44"	53	168477078	0.0
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"45-54 years"	"45-54"	67	163561170	0.0
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"55-64 years"	"55-64"	43	169927914	0.0
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"65-74 years"	"65-74"	55	128191269	0.0
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"75-84 years"	"75-84"	63	64021868	0.1
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"85+ years"	"85+"	38	25783637	0.1
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"< 1 year"	"1"	150	14930763	1.0
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"1-4 years"	"1-4"	368	62584825	0.6
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"5-14 years"	"5-14"	1030	164800798	0.6
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"15-24 years"	"15-24"	10249	171302657	6.0
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"25-34 years"	"25-34"	10039	183202846	5.5
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"35-44 years"	"35-44"	7235	168477078	4.3
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"45-54 years"	"45-54"	6110	163561170	3.7
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"55-64 years"	"55-64"	6348	169927914	3.7
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"65-74 years"	"65-74"	4825	128191269	3.8
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"75-84 years"	"75-84"	3595	64021868	5.6
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"85+ years"	"85+"	1752	25783637	6.8
+	"Person injured in unspecified vehicle accident"	"V89.9"	"5-14 years"	"5-14"	12	164800798	Unreliable
+	"Person injured in unspecified vehicle accident"	"V89.9"	"15-24 years"	"15-24"	73	171302657	0.0
+	"Person injured in unspecified vehicle accident"	"V89.9"	"25-34 years"	"25-34"	66	183202846	0.0
+	"Person injured in unspecified vehicle accident"	"V89.9"	"35-44 years"	"35-44"	61	168477078	0.0
+	"Person injured in unspecified vehicle accident"	"V89.9"	"45-54 years"	"45-54"	42	163561170	0.0
+	"Person injured in unspecified vehicle accident"	"V89.9"	"55-64 years"	"55-64"	60	169927914	0.0
+	"Person injured in unspecified vehicle accident"	"V89.9"	"65-74 years"	"65-74"	40	128191269	0.0
+	"Person injured in unspecified vehicle accident"	"V89.9"	"75-84 years"	"75-84"	26	64021868	0.0
+	"Person injured in unspecified vehicle accident"	"V89.9"	"85+ years"	"85+"	19	25783637	Unreliable
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"15-24 years"	"15-24"	27	171302657	0.0
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"25-34 years"	"25-34"	33	183202846	0.0
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"35-44 years"	"35-44"	28	168477078	0.0
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"45-54 years"	"45-54"	32	163561170	0.0
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"55-64 years"	"55-64"	26	169927914	0.0
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"65-74 years"	"65-74"	15	128191269	Unreliable
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"15-24 years"	"15-24"	49	171302657	0.0
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"25-34 years"	"25-34"	47	183202846	0.0
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"35-44 years"	"35-44"	59	168477078	0.0
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"45-54 years"	"45-54"	62	163561170	0.0
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"55-64 years"	"55-64"	86	169927914	0.1
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"65-74 years"	"65-74"	56	128191269	0.0
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"75-84 years"	"75-84"	19	64021868	Unreliable
+	"Accident to watercraft causing other injury, other powered watercraft, hovercraft (on open water), or jet skis"	"V91.3"	"15-24 years"	"15-24"	11	171302657	Unreliable
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"5-14 years"	"5-14"	10	164800798	Unreliable
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"15-24 years"	"15-24"	19	171302657	Unreliable
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"25-34 years"	"25-34"	32	183202846	0.0
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"35-44 years"	"35-44"	32	168477078	0.0
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"45-54 years"	"45-54"	38	163561170	0.0
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"55-64 years"	"55-64"	39	169927914	0.0
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"65-74 years"	"65-74"	15	128191269	Unreliable
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"75-84 years"	"75-84"	10	64021868	Unreliable
+	"Water-transport-related drowning and submersion without accident to watercraft, other powered watercraft, hovercraft (on open water), or jet skis"	"V92.3"	"25-34 years"	"25-34"	11	183202846	Unreliable
+	"Water-transport-related drowning and submersion without accident to watercraft, other powered watercraft, hovercraft (on open water), or jet skis"	"V92.3"	"45-54 years"	"45-54"	11	163561170	Unreliable
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"15-24 years"	"15-24"	16	171302657	Unreliable
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"25-34 years"	"25-34"	36	183202846	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"35-44 years"	"35-44"	20	168477078	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"45-54 years"	"45-54"	25	163561170	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"55-64 years"	"55-64"	20	169927914	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"65-74 years"	"65-74"	16	128191269	Unreliable
+	"Water-transport-related drowning and submersion without accident to watercraft, inflatable craft (nonpowered)"	"V92.6"	"15-24 years"	"15-24"	15	171302657	Unreliable
+	"Water-transport-related drowning and submersion without accident to watercraft, inflatable craft (nonpowered)"	"V92.6"	"35-44 years"	"35-44"	12	168477078	Unreliable
+	"Water-transport-related drowning and submersion without accident to watercraft, inflatable craft (nonpowered)"	"V92.6"	"55-64 years"	"55-64"	12	169927914	Unreliable
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"15-24 years"	"15-24"	43	171302657	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"25-34 years"	"25-34"	43	183202846	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"35-44 years"	"35-44"	68	168477078	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"45-54 years"	"45-54"	78	163561170	0.0
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"55-64 years"	"55-64"	104	169927914	0.1
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"65-74 years"	"65-74"	122	128191269	0.1
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"75-84 years"	"75-84"	34	64021868	0.1
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"15-24 years"	"15-24"	16	171302657	Unreliable
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"25-34 years"	"25-34"	27	183202846	0.0
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"35-44 years"	"35-44"	26	168477078	0.0
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"45-54 years"	"45-54"	19	163561170	Unreliable
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"55-64 years"	"55-64"	31	169927914	0.0
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"75-84 years"	"75-84"	12	64021868	Unreliable
+	"Helicopter accident injuring occupant"	"V95.0"	"25-34 years"	"25-34"	37	183202846	0.0
+	"Helicopter accident injuring occupant"	"V95.0"	"35-44 years"	"35-44"	37	168477078	0.0
+	"Helicopter accident injuring occupant"	"V95.0"	"45-54 years"	"45-54"	28	163561170	0.0
+	"Helicopter accident injuring occupant"	"V95.0"	"55-64 years"	"55-64"	22	169927914	0.0
+	"Helicopter accident injuring occupant"	"V95.0"	"65-74 years"	"65-74"	15	128191269	Unreliable
+	"Ultralight, microlight or powered-glider accident injuring occupant"	"V95.1"	"55-64 years"	"55-64"	21	169927914	0.0
+	"Accident to other private fixed-wing aircraft, injuring occupant"	"V95.2"	"65-74 years"	"65-74"	12	128191269	Unreliable
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"5-14 years"	"5-14"	19	164800798	Unreliable
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"15-24 years"	"15-24"	85	171302657	0.0
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"25-34 years"	"25-34"	132	183202846	0.1
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"35-44 years"	"35-44"	136	168477078	0.1
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"45-54 years"	"45-54"	162	163561170	0.1
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"55-64 years"	"55-64"	279	169927914	0.2
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"65-74 years"	"65-74"	258	128191269	0.2
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"75-84 years"	"75-84"	74	64021868	0.1
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"85+ years"	"85+"	11	25783637	Unreliable
+	"Parachutist injured in air transport accident"	"V97.2"	"25-34 years"	"25-34"	13	183202846	Unreliable

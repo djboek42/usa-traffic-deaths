@@ -1,0 +1,749 @@
+"---"
+"Dataset: Underlying Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"Title: trafficdeathsweekday"
+"ICD-10 Codes: V01-V99 (Transport accidents)"
+"Group By: Cause of death; Weekday"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Mar 8, 2023 7:14:03 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Mar 8, 2023 7:14:03 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable."
+"4. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"5. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#ICD-10 Changes."
+"Notes"	"Cause of death"	"Cause of death Code"	"Weekday"	"Weekday Code"	Deaths	Population	Crude Rate
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"Sunday"	"1"	22	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"Monday"	"2"	19	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"Tuesday"	"3"	23	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"Wednesday"	"4"	17	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"Thursday"	"5"	20	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"Friday"	"6"	22	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"	"V02.1"	"Saturday"	"7"	26	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"Sunday"	"1"	96	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"Monday"	"2"	101	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"Tuesday"	"3"	91	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"Wednesday"	"4"	97	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"Thursday"	"5"	90	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"Friday"	"6"	79	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"	"V03.0"	"Saturday"	"7"	126	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"Sunday"	"1"	1349	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"Monday"	"2"	1367	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"Tuesday"	"3"	1319	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"Wednesday"	"4"	1325	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"Thursday"	"5"	1397	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"Friday"	"6"	1532	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	"Saturday"	"7"	1571	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"Monday"	"2"	30	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"Tuesday"	"3"	44	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"Wednesday"	"4"	45	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"Thursday"	"5"	25	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"Friday"	"6"	28	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"	"V04.0"	"Saturday"	"7"	19	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"Sunday"	"1"	68	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"Monday"	"2"	128	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"Tuesday"	"3"	135	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"Wednesday"	"4"	144	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"Thursday"	"5"	140	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"Friday"	"6"	137	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"	"V04.1"	"Saturday"	"7"	93	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	"Monday"	"2"	16	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	"Tuesday"	"3"	14	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	"Wednesday"	"4"	12	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	"Thursday"	"5"	15	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	"Friday"	"6"	14	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"	"V05.0"	"Saturday"	"7"	16	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"Sunday"	"1"	20	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"Monday"	"2"	20	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"Wednesday"	"4"	22	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"Thursday"	"5"	23	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"Friday"	"6"	22	Not Applicable	Not Applicable
+	"Pedestrian injured in collision with railway train or railway vehicle, traffic accident"	"V05.1"	"Saturday"	"7"	18	Not Applicable	Not Applicable
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"Sunday"	"1"	224	Not Applicable	Not Applicable
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"Monday"	"2"	199	Not Applicable	Not Applicable
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"Tuesday"	"3"	189	Not Applicable	Not Applicable
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"Wednesday"	"4"	201	Not Applicable	Not Applicable
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"Thursday"	"5"	192	Not Applicable	Not Applicable
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"Friday"	"6"	217	Not Applicable	Not Applicable
+	"Unspecified whether traffic or nontraffic accident"	"V05.9"	"Saturday"	"7"	242	Not Applicable	Not Applicable
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"Sunday"	"1"	116	Not Applicable	Not Applicable
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"Monday"	"2"	103	Not Applicable	Not Applicable
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"Tuesday"	"3"	106	Not Applicable	Not Applicable
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"Wednesday"	"4"	103	Not Applicable	Not Applicable
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"Thursday"	"5"	102	Not Applicable	Not Applicable
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"Friday"	"6"	111	Not Applicable	Not Applicable
+	"Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles"	"V09.0"	"Saturday"	"7"	127	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"Sunday"	"1"	20	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"Monday"	"2"	14	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"Tuesday"	"3"	14	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"Wednesday"	"4"	14	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"Thursday"	"5"	14	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"Friday"	"6"	16	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified nontraffic accident"	"V09.1"	"Saturday"	"7"	30	Not Applicable	Not Applicable
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"Sunday"	"1"	2518	Not Applicable	Not Applicable
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"Monday"	"2"	2365	Not Applicable	Not Applicable
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"Tuesday"	"3"	2237	Not Applicable	Not Applicable
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"Wednesday"	"4"	2307	Not Applicable	Not Applicable
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"Thursday"	"5"	2433	Not Applicable	Not Applicable
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"Friday"	"6"	2721	Not Applicable	Not Applicable
+	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	"Saturday"	"7"	2879	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified traffic accident"	"V09.3"	"Sunday"	"1"	10	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified traffic accident"	"V09.3"	"Monday"	"2"	16	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified traffic accident"	"V09.3"	"Thursday"	"5"	10	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified traffic accident"	"V09.3"	"Friday"	"6"	12	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified traffic accident"	"V09.3"	"Saturday"	"7"	11	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"Sunday"	"1"	37	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"Monday"	"2"	40	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"Tuesday"	"3"	31	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"Wednesday"	"4"	31	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"Thursday"	"5"	39	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"Friday"	"6"	37	Not Applicable	Not Applicable
+	"Pedestrian injured in unspecified transport accident"	"V09.9"	"Saturday"	"7"	50	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"Sunday"	"1"	101	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"Monday"	"2"	87	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"Tuesday"	"3"	89	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"Wednesday"	"4"	89	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"Thursday"	"5"	84	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"Friday"	"6"	75	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V13.4"	"Saturday"	"7"	94	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"Sunday"	"1"	82	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"Monday"	"2"	80	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"Tuesday"	"3"	97	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"Wednesday"	"4"	85	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"Thursday"	"5"	80	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"Friday"	"6"	95	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"	"V13.9"	"Saturday"	"7"	113	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V14.4"	"Monday"	"2"	11	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V14.4"	"Tuesday"	"3"	11	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V14.4"	"Wednesday"	"4"	12	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V14.4"	"Thursday"	"5"	12	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V14.4"	"Friday"	"6"	11	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"	"V14.9"	"Tuesday"	"3"	15	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"	"V14.9"	"Wednesday"	"4"	12	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"	"V14.9"	"Thursday"	"5"	13	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"	"V14.9"	"Friday"	"6"	19	Not Applicable	Not Applicable
+	"Pedal cyclist injured in collision with fixed or stationary object, driver injured in traffic accident"	"V17.4"	"Sunday"	"1"	10	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in nontraffic accident"	"V18.0"	"Sunday"	"1"	11	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in nontraffic accident"	"V18.2"	"Wednesday"	"4"	11	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"Sunday"	"1"	28	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"Monday"	"2"	28	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"Tuesday"	"3"	38	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"Wednesday"	"4"	26	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"Thursday"	"5"	20	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"Friday"	"6"	29	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, driver injured in traffic accident"	"V18.4"	"Saturday"	"7"	20	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"Sunday"	"1"	39	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"Monday"	"2"	38	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"Tuesday"	"3"	31	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"Wednesday"	"4"	31	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"Thursday"	"5"	32	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"Friday"	"6"	31	Not Applicable	Not Applicable
+	"Pedal cyclist injured in noncollision transport accident, unspecified pedal cyclist injured in traffic accident"	"V18.9"	"Saturday"	"7"	38	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"Sunday"	"1"	127	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"Monday"	"2"	142	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"Tuesday"	"3"	106	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"Wednesday"	"4"	151	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"Thursday"	"5"	132	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"Friday"	"6"	191	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.4"	"Saturday"	"7"	158	Not Applicable	Not Applicable
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"Sunday"	"1"	77	Not Applicable	Not Applicable
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"Monday"	"2"	67	Not Applicable	Not Applicable
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"Tuesday"	"3"	85	Not Applicable	Not Applicable
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"Wednesday"	"4"	75	Not Applicable	Not Applicable
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"Thursday"	"5"	79	Not Applicable	Not Applicable
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"Friday"	"6"	85	Not Applicable	Not Applicable
+	"Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident"	"V19.6"	"Saturday"	"7"	94	Not Applicable	Not Applicable
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"Sunday"	"1"	97	Not Applicable	Not Applicable
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"Monday"	"2"	110	Not Applicable	Not Applicable
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"Tuesday"	"3"	104	Not Applicable	Not Applicable
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"Wednesday"	"4"	105	Not Applicable	Not Applicable
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"Thursday"	"5"	104	Not Applicable	Not Applicable
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"Friday"	"6"	106	Not Applicable	Not Applicable
+	"Pedal cyclist [any] injured in unspecified traffic accident"	"V19.9"	"Saturday"	"7"	106	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"Sunday"	"1"	43	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"Monday"	"2"	39	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"Tuesday"	"3"	39	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"Wednesday"	"4"	20	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"Thursday"	"5"	33	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"Friday"	"6"	38	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"	"V20.4"	"Saturday"	"7"	56	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with pedestrian or animal, unspecified motorcycle rider injured in traffic accident"	"V20.9"	"Sunday"	"1"	11	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"Sunday"	"1"	46	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"Monday"	"2"	16	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"Wednesday"	"4"	14	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"Thursday"	"5"	12	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"Friday"	"6"	20	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"	"V22.4"	"Saturday"	"7"	31	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"Sunday"	"1"	607	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"Monday"	"2"	408	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"Tuesday"	"3"	439	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"Wednesday"	"4"	439	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"Thursday"	"5"	466	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"Friday"	"6"	600	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V23.4"	"Saturday"	"7"	713	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"Sunday"	"1"	38	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"Monday"	"2"	20	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"Tuesday"	"3"	24	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"Wednesday"	"4"	20	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"Thursday"	"5"	23	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"Friday"	"6"	34	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V23.5"	"Saturday"	"7"	55	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"Sunday"	"1"	29	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"Monday"	"2"	21	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"Tuesday"	"3"	20	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"Wednesday"	"4"	27	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"Thursday"	"5"	23	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"Friday"	"6"	16	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"	"V23.9"	"Saturday"	"7"	27	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"Sunday"	"1"	35	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"Monday"	"2"	57	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"Tuesday"	"3"	57	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"Wednesday"	"4"	61	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"Thursday"	"5"	70	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"Friday"	"6"	63	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V24.4"	"Saturday"	"7"	50	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in nontraffic accident"	"V27.0"	"Saturday"	"7"	10	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"Sunday"	"1"	498	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"Monday"	"2"	258	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"Tuesday"	"3"	236	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"Wednesday"	"4"	273	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"Thursday"	"5"	243	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"Friday"	"6"	305	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"	"V27.4"	"Saturday"	"7"	496	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	"Sunday"	"1"	27	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	"Monday"	"2"	10	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	"Wednesday"	"4"	10	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	"Friday"	"6"	13	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V27.5"	"Saturday"	"7"	26	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"Sunday"	"1"	42	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"Monday"	"2"	18	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"Tuesday"	"3"	20	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"Wednesday"	"4"	15	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"Thursday"	"5"	22	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"Friday"	"6"	20	Not Applicable	Not Applicable
+	"Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"	"V27.9"	"Saturday"	"7"	34	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in nontraffic accident"	"V28.0"	"Tuesday"	"3"	10	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in nontraffic accident"	"V28.0"	"Saturday"	"7"	11	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"Sunday"	"1"	373	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"Monday"	"2"	193	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"Tuesday"	"3"	190	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"Wednesday"	"4"	181	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"Thursday"	"5"	205	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"Friday"	"6"	264	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident"	"V28.4"	"Saturday"	"7"	383	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"Sunday"	"1"	42	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"Monday"	"2"	20	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"Tuesday"	"3"	17	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"Wednesday"	"4"	12	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"Thursday"	"5"	17	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"Friday"	"6"	24	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, passenger injured in traffic accident"	"V28.5"	"Saturday"	"7"	42	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"Sunday"	"1"	22	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"Monday"	"2"	19	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"Tuesday"	"3"	26	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"Wednesday"	"4"	17	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"Thursday"	"5"	22	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"Friday"	"6"	27	Not Applicable	Not Applicable
+	"Motorcycle rider injured in noncollision transport accident, unspecified motorcycle rider injured in traffic accident"	"V28.9"	"Saturday"	"7"	29	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in nontraffic accident"	"V29.0"	"Saturday"	"7"	16	Not Applicable	Not Applicable
+	"Motorcycle rider [any] injured in unspecified nontraffic accident"	"V29.3"	"Saturday"	"7"	14	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"Sunday"	"1"	820	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"Monday"	"2"	537	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"Tuesday"	"3"	593	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"Wednesday"	"4"	589	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"Thursday"	"5"	598	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"Friday"	"6"	725	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.4"	"Saturday"	"7"	917	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"Sunday"	"1"	77	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"Monday"	"2"	37	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"Tuesday"	"3"	33	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"Wednesday"	"4"	27	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"Thursday"	"5"	39	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"Friday"	"6"	40	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.5"	"Saturday"	"7"	68	Not Applicable	Not Applicable
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"Sunday"	"1"	30	Not Applicable	Not Applicable
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"Monday"	"2"	29	Not Applicable	Not Applicable
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"Tuesday"	"3"	21	Not Applicable	Not Applicable
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"Wednesday"	"4"	20	Not Applicable	Not Applicable
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"Thursday"	"5"	23	Not Applicable	Not Applicable
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"Friday"	"6"	24	Not Applicable	Not Applicable
+	"Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident"	"V29.6"	"Saturday"	"7"	28	Not Applicable	Not Applicable
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"Sunday"	"1"	1009	Not Applicable	Not Applicable
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"Monday"	"2"	596	Not Applicable	Not Applicable
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"Tuesday"	"3"	567	Not Applicable	Not Applicable
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"Wednesday"	"4"	626	Not Applicable	Not Applicable
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"Thursday"	"5"	610	Not Applicable	Not Applicable
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"Friday"	"6"	751	Not Applicable	Not Applicable
+	"Motorcycle rider [any] injured in unspecified traffic accident"	"V29.9"	"Saturday"	"7"	1045	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"Sunday"	"1"	1024	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"Monday"	"2"	950	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"Tuesday"	"3"	945	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"Wednesday"	"4"	879	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"Thursday"	"5"	947	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"Friday"	"6"	1056	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	"Saturday"	"7"	1089	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"Sunday"	"1"	452	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"Monday"	"2"	357	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"Tuesday"	"3"	340	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"Wednesday"	"4"	339	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"Thursday"	"5"	285	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"Friday"	"6"	398	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V43.6"	"Saturday"	"7"	481	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"Sunday"	"1"	75	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"Monday"	"2"	53	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"Tuesday"	"3"	41	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"Wednesday"	"4"	51	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"Thursday"	"5"	72	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"Friday"	"6"	86	Not Applicable	Not Applicable
+	"Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"	"V43.9"	"Saturday"	"7"	62	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"Sunday"	"1"	115	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"Monday"	"2"	195	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"Tuesday"	"3"	204	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"Wednesday"	"4"	217	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"Thursday"	"5"	229	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"Friday"	"6"	225	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V44.5"	"Saturday"	"7"	136	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"Sunday"	"1"	60	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"Monday"	"2"	53	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"Tuesday"	"3"	59	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"Wednesday"	"4"	75	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"Thursday"	"5"	59	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"Friday"	"6"	52	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V44.6"	"Saturday"	"7"	54	Not Applicable	Not Applicable
+	"Car occupant injured in collision with heavy transport vehicle or bus, unspecified car occupant injured in traffic accident"	"V44.9"	"Tuesday"	"3"	10	Not Applicable	Not Applicable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"Sunday"	"1"	10	Not Applicable	Not Applicable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"Tuesday"	"3"	17	Not Applicable	Not Applicable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"Wednesday"	"4"	10	Not Applicable	Not Applicable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"Thursday"	"5"	12	Not Applicable	Not Applicable
+	"Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V45.5"	"Saturday"	"7"	14	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"Sunday"	"1"	786	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"Monday"	"2"	566	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"Tuesday"	"3"	526	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"Wednesday"	"4"	503	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"Thursday"	"5"	520	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"Friday"	"6"	593	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	"Saturday"	"7"	831	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"Sunday"	"1"	258	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"Monday"	"2"	131	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"Tuesday"	"3"	132	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"Wednesday"	"4"	139	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"Thursday"	"5"	148	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"Friday"	"6"	169	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V47.6"	"Saturday"	"7"	245	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"Sunday"	"1"	50	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"Monday"	"2"	41	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"Tuesday"	"3"	38	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"Wednesday"	"4"	39	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"Thursday"	"5"	43	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"Friday"	"6"	52	Not Applicable	Not Applicable
+	"Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"	"V47.9"	"Saturday"	"7"	46	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, driver injured in nontraffic accident"	"V48.0"	"Saturday"	"7"	10	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	"Sunday"	"1"	12	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	"Monday"	"2"	16	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	"Tuesday"	"3"	10	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	"Wednesday"	"4"	13	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	"Thursday"	"5"	17	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	"Friday"	"6"	25	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, person injured while boarding or alighting"	"V48.4"	"Saturday"	"7"	20	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"Sunday"	"1"	406	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"Monday"	"2"	307	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"Tuesday"	"3"	279	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"Wednesday"	"4"	278	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"Thursday"	"5"	275	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"Friday"	"6"	320	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, driver injured in traffic accident"	"V48.5"	"Saturday"	"7"	383	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"Sunday"	"1"	144	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"Monday"	"2"	91	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"Tuesday"	"3"	86	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"Wednesday"	"4"	73	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"Thursday"	"5"	73	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"Friday"	"6"	118	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, passenger injured in traffic accident"	"V48.6"	"Saturday"	"7"	147	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"Sunday"	"1"	43	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"Monday"	"2"	38	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"Tuesday"	"3"	21	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"Wednesday"	"4"	44	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"Thursday"	"5"	24	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"Friday"	"6"	43	Not Applicable	Not Applicable
+	"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident"	"V48.9"	"Saturday"	"7"	62	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"Sunday"	"1"	205	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"Monday"	"2"	198	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"Tuesday"	"3"	193	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"Wednesday"	"4"	188	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"Thursday"	"5"	185	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"Friday"	"6"	195	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	"Saturday"	"7"	233	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"Sunday"	"1"	134	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"Monday"	"2"	115	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"Tuesday"	"3"	98	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"Wednesday"	"4"	111	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"Thursday"	"5"	103	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"Friday"	"6"	117	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.5"	"Saturday"	"7"	138	Not Applicable	Not Applicable
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"Sunday"	"1"	21	Not Applicable	Not Applicable
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"Monday"	"2"	30	Not Applicable	Not Applicable
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"Tuesday"	"3"	19	Not Applicable	Not Applicable
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"Wednesday"	"4"	22	Not Applicable	Not Applicable
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"Thursday"	"5"	22	Not Applicable	Not Applicable
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"Friday"	"6"	23	Not Applicable	Not Applicable
+	"Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.6"	"Saturday"	"7"	32	Not Applicable	Not Applicable
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"Sunday"	"1"	594	Not Applicable	Not Applicable
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"Monday"	"2"	512	Not Applicable	Not Applicable
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"Tuesday"	"3"	508	Not Applicable	Not Applicable
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"Wednesday"	"4"	474	Not Applicable	Not Applicable
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"Thursday"	"5"	518	Not Applicable	Not Applicable
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"Friday"	"6"	621	Not Applicable	Not Applicable
+	"Car occupant [any] injured in unspecified traffic accident"	"V49.9"	"Saturday"	"7"	695	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"Sunday"	"1"	96	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"Monday"	"2"	121	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"Tuesday"	"3"	109	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"Wednesday"	"4"	118	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"Thursday"	"5"	104	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"Friday"	"6"	150	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V53.5"	"Saturday"	"7"	115	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"Sunday"	"1"	42	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"Monday"	"2"	36	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"Tuesday"	"3"	24	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"Wednesday"	"4"	25	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"Thursday"	"5"	24	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"Friday"	"6"	45	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"	"V53.6"	"Saturday"	"7"	30	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"Sunday"	"1"	40	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"Monday"	"2"	93	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"Tuesday"	"3"	99	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"Wednesday"	"4"	82	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"Thursday"	"5"	93	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"Friday"	"6"	91	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V54.5"	"Saturday"	"7"	47	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"Sunday"	"1"	16	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"Monday"	"2"	25	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"Tuesday"	"3"	27	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"Wednesday"	"4"	27	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"Thursday"	"5"	26	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"Friday"	"6"	16	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"	"V54.6"	"Saturday"	"7"	22	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, driver injured in traffic accident"	"V55.5"	"Thursday"	"5"	10	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"Sunday"	"1"	149	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"Monday"	"2"	123	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"Tuesday"	"3"	132	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"Wednesday"	"4"	121	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"Thursday"	"5"	130	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"Friday"	"6"	145	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"	"V57.5"	"Saturday"	"7"	170	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"Sunday"	"1"	43	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"Monday"	"2"	17	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"Tuesday"	"3"	15	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"Wednesday"	"4"	18	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"Thursday"	"5"	17	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"Friday"	"6"	25	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"	"V57.6"	"Saturday"	"7"	37	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, unspecified occupant of pick-up truck or van injured in traffic accident"	"V57.9"	"Wednesday"	"4"	13	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in collision with fixed or stationary object, unspecified occupant of pick-up truck or van injured in traffic accident"	"V57.9"	"Friday"	"6"	11	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in nontraffic accident"	"V58.3"	"Sunday"	"1"	11	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in nontraffic accident"	"V58.3"	"Monday"	"2"	10	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in nontraffic accident"	"V58.3"	"Tuesday"	"3"	13	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in nontraffic accident"	"V58.3"	"Friday"	"6"	13	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"Sunday"	"1"	137	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"Monday"	"2"	107	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"Tuesday"	"3"	110	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"Wednesday"	"4"	112	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"Thursday"	"5"	127	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"Friday"	"6"	141	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident"	"V58.5"	"Saturday"	"7"	157	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"Sunday"	"1"	61	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"Monday"	"2"	37	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"Tuesday"	"3"	37	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"Wednesday"	"4"	44	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"Thursday"	"5"	44	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"Friday"	"6"	50	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, passenger injured in traffic accident"	"V58.6"	"Saturday"	"7"	67	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"Sunday"	"1"	24	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"Monday"	"2"	14	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"Tuesday"	"3"	19	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"Wednesday"	"4"	15	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"Thursday"	"5"	10	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"Friday"	"6"	12	Not Applicable	Not Applicable
+	"Occupant of pick-up truck or van injured in noncollision transport accident, unspecified occupant of pick-up truck or van injured in traffic accident"	"V58.9"	"Saturday"	"7"	17	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"Sunday"	"1"	55	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"Monday"	"2"	59	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"Tuesday"	"3"	76	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"Wednesday"	"4"	64	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"Thursday"	"5"	45	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"Friday"	"6"	68	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.4"	"Saturday"	"7"	54	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"Sunday"	"1"	42	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"Monday"	"2"	33	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"Tuesday"	"3"	36	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"Wednesday"	"4"	33	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"Thursday"	"5"	36	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"Friday"	"6"	48	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V59.5"	"Saturday"	"7"	47	Not Applicable	Not Applicable
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"Sunday"	"1"	83	Not Applicable	Not Applicable
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"Monday"	"2"	66	Not Applicable	Not Applicable
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"Tuesday"	"3"	83	Not Applicable	Not Applicable
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"Wednesday"	"4"	71	Not Applicable	Not Applicable
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"Thursday"	"5"	87	Not Applicable	Not Applicable
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"Friday"	"6"	109	Not Applicable	Not Applicable
+	"Occupant [any] of pick-up truck or van injured in unspecified traffic accident"	"V59.9"	"Saturday"	"7"	103	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V63.5"	"Monday"	"2"	10	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V63.5"	"Wednesday"	"4"	16	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"Sunday"	"1"	10	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"Monday"	"2"	37	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"Tuesday"	"3"	36	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"Wednesday"	"4"	33	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"Thursday"	"5"	33	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"	"V64.5"	"Friday"	"6"	29	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"Monday"	"2"	28	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"Tuesday"	"3"	34	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"Wednesday"	"4"	37	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"Thursday"	"5"	29	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"Friday"	"6"	34	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"	"V67.5"	"Saturday"	"7"	17	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"Sunday"	"1"	23	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"Monday"	"2"	59	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"Tuesday"	"3"	52	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"Wednesday"	"4"	59	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"Thursday"	"5"	45	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"Friday"	"6"	43	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, driver injured in traffic accident"	"V68.5"	"Saturday"	"7"	33	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, passenger injured in traffic accident"	"V68.6"	"Wednesday"	"4"	10	Not Applicable	Not Applicable
+	"Occupant of heavy transport vehicle injured in noncollision transport accident, passenger injured in traffic accident"	"V68.6"	"Thursday"	"5"	10	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"Sunday"	"1"	10	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"Monday"	"2"	20	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"Tuesday"	"3"	22	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"Wednesday"	"4"	21	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"Thursday"	"5"	16	Not Applicable	Not Applicable
+	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.4"	"Friday"	"6"	16	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.5"	"Tuesday"	"3"	15	Not Applicable	Not Applicable
+	"Passenger injured in collision with other and unspecified motor vehicles in traffic accident"	"V69.5"	"Wednesday"	"4"	10	Not Applicable	Not Applicable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"Sunday"	"1"	18	Not Applicable	Not Applicable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"Monday"	"2"	28	Not Applicable	Not Applicable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"Tuesday"	"3"	36	Not Applicable	Not Applicable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"Wednesday"	"4"	34	Not Applicable	Not Applicable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"Thursday"	"5"	35	Not Applicable	Not Applicable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"Friday"	"6"	23	Not Applicable	Not Applicable
+	"Occupant [any] of heavy transport vehicle injured in unspecified traffic accident"	"V69.9"	"Saturday"	"7"	21	Not Applicable	Not Applicable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"Sunday"	"1"	37	Not Applicable	Not Applicable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"Monday"	"2"	44	Not Applicable	Not Applicable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"Tuesday"	"3"	34	Not Applicable	Not Applicable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"Wednesday"	"4"	32	Not Applicable	Not Applicable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"Thursday"	"5"	29	Not Applicable	Not Applicable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"Friday"	"6"	29	Not Applicable	Not Applicable
+	"Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident"	"V80.0"	"Saturday"	"7"	37	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"Monday"	"2"	18	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"Tuesday"	"3"	21	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"Wednesday"	"4"	29	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"Thursday"	"5"	15	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"Friday"	"6"	16	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in traffic accident"	"V84.0"	"Saturday"	"7"	17	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	"Sunday"	"1"	14	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	"Monday"	"2"	24	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	"Tuesday"	"3"	15	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	"Wednesday"	"4"	17	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	"Thursday"	"5"	17	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	"Friday"	"6"	14	Not Applicable	Not Applicable
+	"Driver of special agricultural vehicle injured in nontraffic accident"	"V84.5"	"Saturday"	"7"	13	Not Applicable	Not Applicable
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"Sunday"	"1"	16	Not Applicable	Not Applicable
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"Monday"	"2"	19	Not Applicable	Not Applicable
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"Tuesday"	"3"	22	Not Applicable	Not Applicable
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"Wednesday"	"4"	19	Not Applicable	Not Applicable
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"Thursday"	"5"	31	Not Applicable	Not Applicable
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"Friday"	"6"	31	Not Applicable	Not Applicable
+	"Unspecified occupant of special agricultural vehicle injured in nontraffic accident"	"V84.9"	"Saturday"	"7"	24	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"Sunday"	"1"	316	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"Monday"	"2"	136	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"Tuesday"	"3"	140	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"Wednesday"	"4"	139	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"Thursday"	"5"	146	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"Friday"	"6"	172	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.0"	"Saturday"	"7"	334	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"Sunday"	"1"	67	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"Monday"	"2"	24	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"Tuesday"	"3"	19	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"Wednesday"	"4"	18	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"Thursday"	"5"	12	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"Friday"	"6"	33	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.1"	"Saturday"	"7"	68	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"Sunday"	"1"	27	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"Monday"	"2"	10	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"Tuesday"	"3"	10	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"Wednesday"	"4"	17	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"Thursday"	"5"	13	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"Friday"	"6"	23	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in traffic accident"	"V86.3"	"Saturday"	"7"	38	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"Sunday"	"1"	349	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"Monday"	"2"	189	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"Tuesday"	"3"	163	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"Wednesday"	"4"	162	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"Thursday"	"5"	196	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"Friday"	"6"	226	Not Applicable	Not Applicable
+	"Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.5"	"Saturday"	"7"	449	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"Sunday"	"1"	73	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"Monday"	"2"	34	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"Tuesday"	"3"	29	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"Wednesday"	"4"	21	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"Thursday"	"5"	34	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"Friday"	"6"	36	Not Applicable	Not Applicable
+	"Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.6"	"Saturday"	"7"	95	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"Sunday"	"1"	142	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"Monday"	"2"	68	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"Tuesday"	"3"	64	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"Wednesday"	"4"	79	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"Thursday"	"5"	67	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"Friday"	"6"	87	Not Applicable	Not Applicable
+	"Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident"	"V86.9"	"Saturday"	"7"	142	Not Applicable	Not Applicable
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"Sunday"	"1"	79	Not Applicable	Not Applicable
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"Monday"	"2"	62	Not Applicable	Not Applicable
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"Tuesday"	"3"	81	Not Applicable	Not Applicable
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"Wednesday"	"4"	48	Not Applicable	Not Applicable
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"Thursday"	"5"	52	Not Applicable	Not Applicable
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"Friday"	"6"	71	Not Applicable	Not Applicable
+	"Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)"	"V87.0"	"Saturday"	"7"	87	Not Applicable	Not Applicable
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"Sunday"	"1"	35	Not Applicable	Not Applicable
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"Monday"	"2"	28	Not Applicable	Not Applicable
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"Tuesday"	"3"	35	Not Applicable	Not Applicable
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"Wednesday"	"4"	28	Not Applicable	Not Applicable
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"Thursday"	"5"	29	Not Applicable	Not Applicable
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"Friday"	"6"	43	Not Applicable	Not Applicable
+	"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)"	"V87.1"	"Saturday"	"7"	42	Not Applicable	Not Applicable
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"Sunday"	"1"	32	Not Applicable	Not Applicable
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"Monday"	"2"	44	Not Applicable	Not Applicable
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"Tuesday"	"3"	31	Not Applicable	Not Applicable
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"Wednesday"	"4"	33	Not Applicable	Not Applicable
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"Thursday"	"5"	35	Not Applicable	Not Applicable
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"Friday"	"6"	46	Not Applicable	Not Applicable
+	"Person injured in collision between car and pick-up truck or van (traffic)"	"V87.2"	"Saturday"	"7"	34	Not Applicable	Not Applicable
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"Sunday"	"1"	36	Not Applicable	Not Applicable
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"Monday"	"2"	57	Not Applicable	Not Applicable
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"Tuesday"	"3"	48	Not Applicable	Not Applicable
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"Wednesday"	"4"	65	Not Applicable	Not Applicable
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"Thursday"	"5"	58	Not Applicable	Not Applicable
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"Friday"	"6"	57	Not Applicable	Not Applicable
+	"Person injured in collision between car and heavy transport vehicle (traffic)"	"V87.4"	"Saturday"	"7"	40	Not Applicable	Not Applicable
+	"Person injured in collision between railway train or railway vehicle and car (traffic)"	"V87.6"	"Saturday"	"7"	11	Not Applicable	Not Applicable
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"Sunday"	"1"	2817	Not Applicable	Not Applicable
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"Monday"	"2"	2762	Not Applicable	Not Applicable
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"Tuesday"	"3"	2645	Not Applicable	Not Applicable
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"Wednesday"	"4"	2792	Not Applicable	Not Applicable
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"Thursday"	"5"	2856	Not Applicable	Not Applicable
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"Friday"	"6"	3247	Not Applicable	Not Applicable
+	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	"Saturday"	"7"	2966	Not Applicable	Not Applicable
+	"Person injured in collision between other specified motor vehicles, nontraffic"	"V88.7"	"Saturday"	"7"	12	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"Sunday"	"1"	85	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"Monday"	"2"	62	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"Tuesday"	"3"	62	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"Wednesday"	"4"	52	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"Thursday"	"5"	67	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"Friday"	"6"	65	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, nontraffic"	"V89.0"	"Saturday"	"7"	65	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"Sunday"	"1"	8644	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"Monday"	"2"	6916	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"Tuesday"	"3"	6441	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"Wednesday"	"4"	6461	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"Thursday"	"5"	6857	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"Friday"	"6"	7790	Not Applicable	Not Applicable
+	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	"Saturday"	"7"	8593	Not Applicable	Not Applicable
+	"Person injured in unspecified vehicle accident"	"V89.9"	"Sunday"	"1"	53	Not Applicable	Not Applicable
+	"Person injured in unspecified vehicle accident"	"V89.9"	"Monday"	"2"	46	Not Applicable	Not Applicable
+	"Person injured in unspecified vehicle accident"	"V89.9"	"Tuesday"	"3"	41	Not Applicable	Not Applicable
+	"Person injured in unspecified vehicle accident"	"V89.9"	"Wednesday"	"4"	63	Not Applicable	Not Applicable
+	"Person injured in unspecified vehicle accident"	"V89.9"	"Thursday"	"5"	59	Not Applicable	Not Applicable
+	"Person injured in unspecified vehicle accident"	"V89.9"	"Friday"	"6"	71	Not Applicable	Not Applicable
+	"Person injured in unspecified vehicle accident"	"V89.9"	"Saturday"	"7"	70	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"Sunday"	"1"	36	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"Monday"	"2"	25	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"Tuesday"	"3"	27	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"Wednesday"	"4"	16	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"Thursday"	"5"	19	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"Friday"	"6"	28	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, canoe or kayak"	"V90.5"	"Saturday"	"7"	30	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"Sunday"	"1"	80	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"Monday"	"2"	56	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"Tuesday"	"3"	43	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"Wednesday"	"4"	42	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"Thursday"	"5"	34	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"Friday"	"6"	55	Not Applicable	Not Applicable
+	"Accident to watercraft causing drowning and submersion, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V90.9"	"Saturday"	"7"	81	Not Applicable	Not Applicable
+	"Accident to watercraft causing other injury, other powered watercraft, hovercraft (on open water), or jet skis"	"V91.3"	"Sunday"	"1"	10	Not Applicable	Not Applicable
+	"Accident to watercraft causing other injury, other powered watercraft, hovercraft (on open water), or jet skis"	"V91.3"	"Saturday"	"7"	15	Not Applicable	Not Applicable
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"Sunday"	"1"	39	Not Applicable	Not Applicable
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"Monday"	"2"	37	Not Applicable	Not Applicable
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"Wednesday"	"4"	23	Not Applicable	Not Applicable
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"Friday"	"6"	21	Not Applicable	Not Applicable
+	"Accident to watercraft causing other injury, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V91.9"	"Saturday"	"7"	58	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, other powered watercraft, hovercraft (on open water), or jet skis"	"V92.3"	"Sunday"	"1"	11	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, other powered watercraft, hovercraft (on open water), or jet skis"	"V92.3"	"Saturday"	"7"	10	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"Sunday"	"1"	32	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"Monday"	"2"	18	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"Tuesday"	"3"	16	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"Wednesday"	"4"	15	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"Thursday"	"5"	19	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"Friday"	"6"	17	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"	"V92.5"	"Saturday"	"7"	25	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, inflatable craft (nonpowered)"	"V92.6"	"Sunday"	"1"	12	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, inflatable craft (nonpowered)"	"V92.6"	"Tuesday"	"3"	11	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, inflatable craft (nonpowered)"	"V92.6"	"Saturday"	"7"	15	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"Sunday"	"1"	86	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"Monday"	"2"	62	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"Tuesday"	"3"	55	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"Wednesday"	"4"	56	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"Thursday"	"5"	77	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"Friday"	"6"	71	Not Applicable	Not Applicable
+	"Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V92.9"	"Saturday"	"7"	94	Not Applicable	Not Applicable
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"Sunday"	"1"	33	Not Applicable	Not Applicable
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"Monday"	"2"	17	Not Applicable	Not Applicable
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"Tuesday"	"3"	12	Not Applicable	Not Applicable
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"Wednesday"	"4"	11	Not Applicable	Not Applicable
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"Thursday"	"5"	20	Not Applicable	Not Applicable
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"Friday"	"6"	22	Not Applicable	Not Applicable
+	"Other and unspecified water transport accidents, unspecified watercraft, boat NOS, ship NOS, or watercraft NOS"	"V94.9"	"Saturday"	"7"	36	Not Applicable	Not Applicable
+	"Helicopter accident injuring occupant"	"V95.0"	"Sunday"	"1"	30	Not Applicable	Not Applicable
+	"Helicopter accident injuring occupant"	"V95.0"	"Monday"	"2"	18	Not Applicable	Not Applicable
+	"Helicopter accident injuring occupant"	"V95.0"	"Tuesday"	"3"	27	Not Applicable	Not Applicable
+	"Helicopter accident injuring occupant"	"V95.0"	"Wednesday"	"4"	23	Not Applicable	Not Applicable
+	"Helicopter accident injuring occupant"	"V95.0"	"Thursday"	"5"	22	Not Applicable	Not Applicable
+	"Helicopter accident injuring occupant"	"V95.0"	"Friday"	"6"	27	Not Applicable	Not Applicable
+	"Helicopter accident injuring occupant"	"V95.0"	"Saturday"	"7"	16	Not Applicable	Not Applicable
+	"Ultralight, microlight or powered-glider accident injuring occupant"	"V95.1"	"Monday"	"2"	11	Not Applicable	Not Applicable
+	"Ultralight, microlight or powered-glider accident injuring occupant"	"V95.1"	"Saturday"	"7"	13	Not Applicable	Not Applicable
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"Sunday"	"1"	180	Not Applicable	Not Applicable
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"Monday"	"2"	149	Not Applicable	Not Applicable
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"Tuesday"	"3"	113	Not Applicable	Not Applicable
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"Wednesday"	"4"	137	Not Applicable	Not Applicable
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"Thursday"	"5"	169	Not Applicable	Not Applicable
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"Friday"	"6"	185	Not Applicable	Not Applicable
+	"Unspecified aircraft accident injuring occupant"	"V95.9"	"Saturday"	"7"	227	Not Applicable	Not Applicable
+	"Glider (nonpowered) accident injuring occupant"	"V96.2"	"Saturday"	"7"	10	Not Applicable	Not Applicable
+	"Parachutist injured in air transport accident"	"V97.2"	"Sunday"	"1"	15	Not Applicable	Not Applicable
+	"Parachutist injured in air transport accident"	"V97.2"	"Saturday"	"7"	11	Not Applicable	Not Applicable
